@@ -3,7 +3,6 @@
 This project analyzes privacy policies of educational AI applications. The goal is to evaluate policy readability, legal compliance and user perception.
 ## Project Structure
 
-## Project Structure
 
 ```text
 Privacy-Policies-in-Educational-AI/
