@@ -28,7 +28,7 @@ Privacy-Policies-in-Educational-AI/
 │
 └── req.txt
     └── Contains the Python packages required to run the project.
-
+'''
 ## Description
 
 The project focuses on collecting and analyzing privacy policies from educational AI applications. The analysis includes reading privacy policy URLs, extracting policy text, evaluating readability, and performing compliance-related analysis.
