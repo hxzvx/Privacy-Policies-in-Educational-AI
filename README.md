@@ -95,8 +95,4 @@ python Scripts/compliance.py
 - The `Extracted_Texts/` folder contains the processed policy texts.
 - The `urls/` folder contains the source privacy policy links.
 - The `Results/` folder contains the analysis outputs.
-- The virtual environment folder should not be uploaded to GitHub.
 
-## Author
-
-Hafsa Alzubaidi
