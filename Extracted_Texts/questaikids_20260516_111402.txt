@@ -1,0 +1,65 @@
+Privacy Policy
+Effective Date: December 2024
+Last Updated: December 2024
+
+1. Introduction
+QuestAI Kids ("we," "our," or "us") is committed to protecting the privacy of children and their families. This Privacy Policy explains how we collect, use, and protect information when you use our educational platform.
+
+As a children's educational platform, we comply with COPPA (Children's Online Privacy Protection Act), GDPR (General Data Protection Regulation), and Nigerian Data Protection Regulation (NDPR).
+
+2. Information We Collect
+From Children (Under 13):
+First name only (no last names)
+Age range (not specific birthdate)
+Learning progress and achievements
+Creative content (stories, art) - only stored locally unless shared with parent permission
+
+From Parents/Guardians:
+Email address for account creation
+Payment information (processed securely through Paystack/PayPal)
+Communication preferences
+
+3. How We Use Information
+Provide personalized learning experiences
+Track learning progress and achievements
+Send progress reports to parents (with consent)
+Improve our educational content and platform
+Process donations and sponsorships
+Communicate about our mission and impact
+
+4. Data Sharing and Disclosure
+We NEVER sell or rent personal information. We only share data in these limited circumstances:
+
+With parent/guardian consent for sharing achievements
+With educational partners (schools, teachers) as authorized by parents
+With service providers who help us operate the platform (all bound by strict privacy agreements)
+When required by law or to protect safety
+
+5. Data Security
+We implement industry-standard security measures including:
+
+SSL encryption for all data transmission
+Secure cloud storage with access controls
+Regular security audits and updates
+Limited access to personal information on a need-to-know basis
+
+6. Parent Rights and Controls
+Parents have the right to:
+
+Review all information collected about their child
+Request deletion of their child's account and data
+Refuse permission for information collection
+Modify privacy settings and communication preferences
+Export their child's learning progress and creations
+
+7. International Data Transfers
+Our platform serves children across Africa and globally. Data may be processed in Nigeria, the European Union, or the United States by our trusted service providers, all of whom maintain equivalent privacy protections.
+
+8. Contact Us
+For any privacy-related questions or requests:
+
+Email: privacy@questaikids.com
+
+Address: Cihan Digital Academy, Lagos, Nigeria
+
+Phone: +234-XXX-XXXX-XXX

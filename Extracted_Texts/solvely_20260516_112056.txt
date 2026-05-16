@@ -1,0 +1,1093 @@
+Privacy Policy - Solvely
+Pricing
+Product
+About
+Login
+Solver
+Upload a snap of your question to find answers and explanations
+AI Study
+Your all-in-one study tool, upload multisource materials (docx, mp3, url, pptx, pdf) to generate study guides, flashcards, and quizzes
+AI Live Notes
+Record lectures, meetings, or conversations and automatically generate notes
+Exam Predictor
+Upload your study materials to predict your upcoming exam questions categorized by topics
+Solver
+AI Math Solver
+Word Problem Solver
+Equation Solver
+Photo Math Solver
+AI Statistics Solver
+Calculator
+Solve for x Calculator
+Algebra Calculator
+Scientific Calculator
+AI Geometry Calculator
+Fraction Calculator
+Blog
+Download App
+Download Extension
+Pricing
+Product
+Solver
+Upload a snap of your question to find answers and explanations
+AI Study
+Your all-in-one study tool, upload multisource materials (docx, mp3, url, pptx, pdf) to generate study guides, flashcards, and quizzes
+AI Live Notes
+Record lectures, meetings, or conversations and automatically generate notes
+Exam Predictor
+Upload your study materials to predict your upcoming exam questions categorized by topics
+About
+Login
+Solvely.ai Privacy Policy
+Updated and Effective as of January 14, 2026.
+At Aignite Inc.(" Aignite " or " Solvely.ai "), we prioritize your privacy and have created this Privacy Policy to outline our practices and your choices regarding the information we gather through our websites, apps, mobile features, and other services that reference this Privacy Policy (" Service " or " Services "). This policy also applies to information collected from offline sources, all of which may be consolidated in our databases.
+Please review this Privacy Policy thoroughly. By accessing and using our Services, you agree that your activities are governed by the Privacy Policy as well as our Terms of Use.
+Please note that to utilize certain features of our Services, you may need to engage with third-party platforms, which manage certain aspects of the Services. When doing so, your personal information will also be subject to the privacy policies of those third parties, and data about you may be shared between Aignite and the third party. For more details, please refer to the "Data We Disclose to Third Parties" section below
+Privacy Policy Table of Contents
+1. Personal, Sensitive and Non-Personal Information We Collect and How We Use and Disclose It
+A. Contact Information
+B. Government Identification
+C. Payment and Financial Information
+D. Transaction Information
+E. User Account Information
+F. Educational Information
+G. Employment Information
+H. Demographic Information
+I. Live Interactions
+J. Sensory and Photo/Video Data and Other User-Generated Content
+K. Data Revealing Racial Origin
+L. Information about Your Interests and Preferences
+M. Device ID/Information
+2. Additional Information Regarding Certain Information and Uses
+A. Data We Collect Automatically
+B. Data You Provide Directly
+C. Data We Receive or Collect from Third Parties
+D. Data We Disclose to Third Parties
+3. Third Party Advertising and Analytics/Privacy Controls/Do-Not-Track
+4. Your Choices and Opt Out Rights
+Marketing Messages from Us
+Data Privacy Choices
+Service Changes and Paid Features
+Region-Specific Rights
+5. Security
+6. Third Party Content and Links
+7. Consent to International Transfer
+8. General Audience Sites
+9. Changes to This Privacy Policy
+How To Contact Us
+European Residents
+NOTICE TO CALIFORNIA RESIDENTS
+Personal, Sensitive and Non-Personal Information We Collect and How We Use and Disclose It
+We gather information about you in several ways: directly from your interactions with our Services, automatically through cookies and similar technologies when you visit our Services, and occasionally from third-party sources. Some of the data we collect may be considered " personal data " (or " personal information ") and, in certain cases, may be deemed " sensitive, " under relevant laws. We also recognize that certain information, such as IP addresses and cookie identifiers, may be treated as "personal data" where required by applicable regulations.
+In some instances, we may de-identify or pseudonymize your personal data to render it non-personal, either by aggregating it with data from other individuals or by applying techniques such as hashing to remove characteristics that could identify you. We will handle such de-identified or pseudonymized data as non-personal data, in line with the limits set by applicable laws. We manage and utilize de-identified data without attempting to re-identify it, except where allowed by law, such as to verify the effectiveness of our de-identification processes. If we combine non-personal data with personal data, we will treat the combined information as personal data under this Privacy Policy. We may share non-personal data with third parties for various purposes at our discretion, including for advertising, research and marketing, as permitted by law.
+The table below outlines the types of personal data we may collect (" Category "), the specific reasons for collecting this information (" Purposes "), the categories of third parties with whom the data may be shared for legitimate business purposes (" Disclosed To "), and the categories of third parties to whom the data may be sold for monetary gain or other valuable consideration, or shared for cross contextual behavioral advertising and targeted marketing (" Sold/Shared To ").
+For more details on how certain types of personal data are collected and utilized, please refer to the section titled " Additional Information Regarding Certain Information and Uses " provided below.
+A. Contact Information (such as your name, phone number, email address, and social media username)
+a. Purposes for Collection:
+(1) Providing Services:
+This includes processing your transactions, fulfilling your orders, delivering content or other services, managing your account, enabling participation in promotions, sending service-related communications, responding to inquiries, offering customer support, and sending requested information like newsletters or order updates. It also covers sending reminders for abandoned carts or browse sessions, and compiling and using performance analytics (including user assessment results and progress data) to provide feedback, monitor learning outcomes, and enhance our AI-assisted quiz, exam or certification preparation programs and related services.
+(2) Marketing and Advertising:
+We may send you special offers, promotions, invitations, and similar communications from us, our advertisers, or third parties. This may include the use of cookies, tracking technologies, and profiling to deliver targeted or personalized marketing messages, either through our own channels or through third-party platforms.
+(3) Personalization:
+To cater to your preferences, we tailor content, advertising, and recommendations to you across our Services and on other platforms, as well as manage ad delivery, performance, and frequency.
+(4) Administrative Functions:
+This involves recognizing you across devices, verifying your identity, contacting you about your use of the Services or products, and informing you of policy changes.
+(5) Internal Operations:
+To enhance our products, services, and marketing efforts, we analyze trends, troubleshoot issues, conduct audits, perform market research, assess the effectiveness of our marketing efforts and conduct performance and usage analytics.
+(6) Security Measures:
+We work to investigate, prevent, detect, and protect against system misuse, criminal activity, or any actions that violate our policies.
+(7) Recruitment:
+For processing job applications, facilitating your job search, and preparing related internal or governmental statistical reports.
+(8) Legal Compliance:
+To comply with legal obligations, resolve disputes, enforce our agreements and policies (including the Honor Code, where applicable), cooperate with governmental or legal inquiries, and fulfill regulatory reporting requirements, as well as protect the rights and assets of ourselves and others.
+(9) Business Transitions:
+In the event of a corporate transition such as a merger, acquisition, consolidation, including during due diligence.
+(10) Other Uses:
+For purposes disclosed at the time of data collection or as authorized by your consent, including the use of user data to train, fine-tune, or improve AI models, provided such use complies with applicable laws and user consent requirements.
+b. Categories of Third Parties the Data May Be Disclosed To:
+(1) Other Users:
+Depending on the specific Services you engage with, this may include interactions with instructors, students, and other participants.
+(2) Advertising and Analytics Partners:
+This includes analytics providers, third-party advertisers, marketing agencies, and entities that assist us with surveys, market research, and product development.
+(3) Social Media and External Platforms:
+Information may be shared with social media platforms and other third-party services.
+(4) Sweepstakes and Contest Collaborators:
+Partners involved in administering sweepstakes, contests, and similar promotional activities.
+(5) Business Collaborators:
+This category includes companies whose products or services are integrated with Solvely.ai, joint marketing partners, and other similar associates.
+(6) Affiliated Entities:
+Information may be shared with companies that are affiliated with our organization.
+(7) Order Processing and Fulfillment Partners:
+This includes payment processors, fulfillment centers, shipping and delivery services, and order tracking vendors.
+(8) Technology and IT Service Providers:
+Companies that provide technological infrastructure, such as web hosting, database management, software-as-a-service (SaaS) or other cloud computing providers, and IT maintenance services.
+(9) Communication Services:
+Providers that facilitate email distribution, text messaging, and other communication services.
+(10) Security Service Providers:
+Entities that assist with maintaining the security of our systems and data.
+(11) Financial Assistance Partners:
+Organizations that provide financial aid or related services.
+(12) Customer Service Vendors:
+This includes call centers, live chat services, and other customer support providers.
+(13) Government and Legal Compliance:
+Information may be disclosed to government agencies, law enforcement, or other entities as required by law.
+(14) Third Parties in connection with court or other legal proceedings.
+(15) Third Parties in connection with a business transition.
+(16) Third Parties to whom you agree or direct us to share your information.
+(17) Other service providers who use your data solely to provide services to us or you.
+c. Third Parties to Whom the Data May Be Sold/Shared for Targeted Advertising:
+(1) Third Party Advertising and Analytics Partners. (2) Social Media and Other Third-Party Platforms. (3) Third-Party Business Partners.
+B. Government Identification (such as social security number, driver's license, and other government-issued identification)
+a. Purposes for Collection: (1) Administrative Functions:
+To confirm and verify your identity for security and compliance purposes. (2) Employment-Related Activities:
+This includes supporting your job search, processing your job application, and generating related reports for governmental compliance and internal statistics. (3) Security Measures:
+To monitor, prevent, and address any misuse of our systems, fraudulent, criminal behavior, or any actions that violate our policies. (4) Legal Compliance:
+To ensure adherence to legal requirements, resolve disputes, enforce our agreements and policies (including the Honor Code where relevant), meet contractual obligations, cooperate with governmental and legal investigations, and protect our own or others' rights or assets. (5) Corporate Changes:
+In the event of a merger, acquisition, consolidation, bankruptcy, or other corporate restructuring, including during the due diligence process. (6) Other Disclosed Purposes:
+For any other purposes that were specifically disclosed to you at the time of data collection or for which you have provided consent.
+b. Categories of Third Parties the Data May Be Disclosed To: (1) Affiliated Companies. (2) Technology Systems Service Providers , including webhosts, database hosts, software-as-a-service or other cloud computing providers, and technology maintenance and repair vendors. (3) Security Vendors.(4) Government Agencies and Law Enforcement or Where Required by law.(5) Third Parties in connection with court or other legal actions.(6) Third Parties who acquire the information in connection with a business transition.(7) Third Parties to whom you agree or direct us to share your information.(8) Other service providers who use your data solely to provide services to us or to you.
+c. Third Parties to Whom the Data May Be Sold/Shared for Targeted Advertising:
+This category of data is not sold or shared for targeted advertising.
+C. Payment and Financial Information (such as credit or debit card number, expiration date, billing address, and banking information)
+a. Purposes for Collection: (1) Provide You Services:
+to process transactions and fulfill your orders.
+(2) Employment-Related Activities:
+This includes supporting your job search, processing your job application, and generating related reports for governmental compliance and internal statistics.
+(3) Security Measures:
+To monitor, prevent, and address any misuse of our systems, fraudulent, criminal behavior, or any actions that violate our policies.
+(4) Legal Compliance:
+To ensure adherence to legal requirements, resolve disputes, enforce our agreements and policies (including the Honor Code where relevant), meet contractual obligations, cooperate with governmental and legal investigations, and protect our own or others' rights or assets.
+(5) Corporate Changes:
+In the event of a merger, acquisition, consolidation, bankruptcy, or other corporate restructuring, including during the due diligence process.
+(6) Other Disclosed Purposes:
+For any other purposes that were specifically disclosed to you at the time of data collection or for which you have provided consent.
+b. Categories of Third Parties the Data May Be Disclosed To: (1) Affiliated Companies.
+(2) Order Fulfillment Vendors , such as payment processors.
+(3) Government Agencies and Law Enforcement or Where Required by law.
+(4) Third Parties in connection with court or other legal actions.
+(5) Third Parties who acquire the information in connection with a business transition.
+(6) Third Parties to Whom You Agree or Direct Us to Share Your Information.
+(7) Other service providers who use your data solely to provide services to us or to you. \
+c. Third Parties to Whom the Data May Be Sold/Shared for Targeted Advertising:
+This category of data is not sold or shared for targeted advertising.
+D. Transaction Information (such as what you ordered, when you ordered it, the amount of your purchase, return/cancellation information; products or services considered; and your participation in a sweepstakes or contest)
+a. Purposes for Collection: (1) Providing Services:
+This includes processing your transactions, fulfilling your orders, delivering content or other services, managing your account, enabling participation in promotions, sending service-related communications, responding to inquiries, offering customer support, and sending requested information like newsletters or order updates. It also covers sending reminders for abandoned carts or Browse sessions.
+(2) Marketing and Advertising:
+We may send you special offers, promotions, invitations, and similar communications from us, our advertisers, or third parties.
+(3) Personalization:
+To cater to your preferences, we tailor content, advertising, and recommendations to you across our Services and on other platforms, as well as manage ad delivery, performance, and frequency.
+(4) Administrative Functions:
+This involves recognizing you across devices, verifying your identity, contacting you about your use of the Services or products, and informing you of policy changes.
+(5) Internal Operations:
+To enhance our products, services, and marketing efforts, we analyze trends, troubleshoot issues, conduct audits, perform market research, and assess the effectiveness of our marketing efforts.
+(6) Security Measures:
+We work to investigate, prevent, detect, and protect against system misuse, criminal activity, or any actions that violate our policies.
+(7) Recruitment:
+For processing job applications, facilitating your job search, and preparing related internal or governmental statistical reports.
+(8) Legal Compliance:
+To comply with legal obligations, resolve disputes, enforce our agreements and policies (including the Honor Code, where applicable), cooperate with governmental or legal inquiries, and fulfill regulatory reporting requirements, as well as protect the rights and assets of ourselves and others.
+(9) Business Transitions:
+In the event of a corporate transition such as a merger, acquisition, or consolidation, including during due diligence.
+(10) Other Uses:
+For purposes disclosed at the time of data collection or as authorized by your consent.
+b. Categories of Third Parties the Data May Be Disclosed To: (1) Advertising and Analytics Partners , such as analytics companies, third party advertisers, marketing agencies, including those who assist us with surveys and market or product research and development.
+(2) Social Media and Other Third Party Platforms.
+(3) Sweepstakes/Contest Partners.
+(4) Business Partners , such as those whose products and services are bundled with Solvely.ai's and other joint marketing and similar partners.
+(5) Affiliated Companies.
+(6) Order Fulfillment Vendors , including payment processors, fulfillment centers, delivery services, order tracking vendors.
+(7) Technology Systems Service Providers , including web hosts, database hosts, software-as-a-service or other cloud computing providers, and technology maintenance and repair vendors.
+(8) Communications Service Providers , including email delivery vendors and text messaging service providers.
+(9) Security Vendors.
+(10) Financial Assistance Partners.
+(11) Customer Service Providers , including call centers and live chat vendors.
+(12) Educational Institutions and Certification Authorities , only in connection with an applicable Honor Code inquiry.
+(13) Government Agencies and Law Enforcement or Where Required by law.
+(14) Third Parties in connection with court or other legal actions. (15) Third Parties who acquire the information in connection with a business transition.
+(16) Third Parties to whom you agree or direct us to share your information.
+(17) Other service providers who use your data solely to provide services to us or to you.
+c. Third Parties to whom the Data May Be Sold/Shared for Targeted Advertising:
+Analytics Companies; Third-Party Advertisers; Social Media Companies
+E. User Account Information (such as password, communication preferences, and account settings)
+a.
+Purposes for Collection: (1) Providing Services : This includes processing your transactions, fulfilling your orders, delivering content or other services, managing your account, enabling participation in promotions sending service-related communications, responding to inquiries, offering customer support, and sending requested information like newsletters or order updates It also covers sending reminders for abandoned carts or browsing sessions.
+(2) Marketing and Advertising
+We may send you special offers, promotions, invitations, and similar communications from us, our advertisers, or third parties
+(3) Personalization
+to cater to your preferences, we tailor content, advertising, and recommendations to you across our Services and on other platforms, as well as manage ad delivery, performance, and frequency.
+(4)
+Administrative Functions
+This involves recognizing you across devices, verifying your identity, contacting you about your use of the Services or products and informing you of policy changes.
+(5) Internal Operations
+To enhance our products, services, and marketing efforts, we analyze trends, troubleshoot issues, conduct audits, perform market research and assess the effectiveness of our marketing efforts
+(6) Security Measures
+We work to investigate, prevent, detect, and protect against system misuse, criminal activity, or any actions that violate our policies
+(7)
+Recruitment
+For processing job applications, facilitating your job search, and preparing related internal or governmental statistical reports
+(8) Legal Compliance
+to comply with legal obligations, resolve disputes, enforce our agreements and policies( including the Honor Code, where applicable), cooperate with governmental or legal inquiries, and fulfill regulatory reporting requirements, as well as protect the rights and assets of ourselves and others.
+(9) Business Transitions , in the event of a corporate transition such as a merger, acquisition, consolidation, including during due diligence.
+(10) Other Uses
+For purposes disclosed at the time of data collection or as authorized by your consent
+b. Categories of Third Parties the Data May Be Disclosed To:
+(1) Affiliated Companies ;
+(2) Technology Systems Service Providers , including webhosts, database hosts, software-as-a-service or other cloud computing providers, and technology maintenance and repair vendors;
+(3) Communications Service Providers , including email delivery vendors and text messaging service providers;
+(4) Security Vendors ;
+(5) Customer Service Providers , including call centers and live chat vendors;
+(6) Government Agencies and Law Enforcement or Where Required By Law ;
+(7) Third Parties in connection with court or other legal actions ;
+(8) Third Parties who acquire the information in connection with a business transition ;
+(9) Third Parties to whom you agree or direct us to share your information; (10) Other service providers who use your data solely to provide services to us or to you.
+c. Third Parties to whom the Data May Be Sold/Shared for Targeted Advertising:
+This category of data is not sold or shared for targeted advertising.
+F. Educational Information (such as your education level, school name, degree, year of graduation, courses, and for our exams and certifications preparation Service, your responses to onboarding surveys, your performance as well as content and transcripts generated in educational environments)
+a. Purposes for Collection:
+(1) Providing Services : This includes processing your transactions, fulfilling your orders, delivering content or other services, managing your account, enabling participation in promotions, sending service-related communications, responding to inquiries, offering customer support, and sending requested information like newsletters or order updates. It also covers sending reminders for abandoned carts or browsing sessions, generating and storing transcripts of recorded educational content to support your learning, and compiling and using performance analytics (including user assessment results and progress data) to provide feedback, monitor learning outcomes, and enhance our AI-assisted quiz, exam or certification preparation programs and related services.
+(2) Marketing and Advertising : We may send you special offers, promotions, invitations, and similar communications from us, our advertisers, or third parties. This may include the use of cookies, tracking technologies, and profiling to deliver targeted or personalized marketing messages, either through our own channels or through third-party platforms.
+(3) Personalization : To cater to your preferences, we tailor content, advertising, and recommendations to you across our Services and on other platforms, as well as manage ad delivery, performance, and frequency.
+(4) Internal Operations : To enhance our products, services, and marketing efforts, we analyze trends, troubleshoot issues, conduct audits, perform market research, assess the effectiveness of our marketing efforts and conduct performance and usage analytics, including aggregated or anonymized analysis of recorded and transcribed educational content to improve summarization accuracy and note-taking features.
+(5) Security Measures : We work to investigate, prevent, detect, and protect against system misuse, criminal activity, or any actions that violate our policies.
+(6) Recruitment : For processing job applications, facilitating your job search, and preparing related internal or governmental statistical statistics reports.
+(7) Legal Compliance : To comply with legal obligations, resolve disputes, enforce our agreements and policies (including the Honor Code, where applicable), cooperate with governmental or legal inquiries, and fulfill regulatory reporting requirements, as well as protect the rights and assets of ourselves and others.
+(8) Business Transitions : In the event of a corporate transition such as a merger, acquisition, consolidation, including during due diligence.
+(9) Other Uses : For purposes disclosed at the time of data collection or as authorized by your consent, including the use of user data to train, fine-tune, or improve AI models, provided such use complies with applicable laws and user consent requirements.
+b. Categories of Third Parties the Data May Be Disclosed To: (1) Other Users , including instructors and students, depending on the Services you interact with;
+(2) Affiliated Companies ;
+(3) Technology Systems Service Providers , including webhosts, database hosts, software-as-a-service or other cloud computing providers, and technology maintenance and repair vendors;
+(4) Security Vendors ;
+(5) Customer Service Providers , including call centers and live chat vendors;
+(6) Financial Assistance Partners ;
+(7) Third Party Business Partners , unaffiliated parties that are joint marketing partners or whose products or services are bundled with our Services;
+(8) Government Agencies and Law Enforcement or Where Required By Law ;
+(9) Third Parties in connection with court or other legal actions ;
+(10) Third Parties who acquire the information in connection with a business transition ;
+(11) Third Parties to whom you agree or direct us to share your information ;
+(12) Other service providers who use your data solely to provide services to us or to you.
+c. Third Parties to whom the Data May Be Sold/Shared for Targeted Advertising : This category of data is not sold or shared for targeted advertising.
+d. Educational Recording : If you use our recording and transcription services in educational environments:
+We understand and respect FERPA (Family Educational Rights and Privacy Act) requirements. We handle transcript data in accordance with FERPA and other applicable privacy regulations, to the extent such laws apply to our role and the Services we provide.
+We do not sell any data that may contain student information to third parties.
+We handle data in accordance with COPPA (Children's Online Privacy Protection Act) requirements.
+Teachers and student users should follow their educational institution\'s policies to ensure that using our services complies with institutional requirements.
+G. Employment Information (such as your eligibility to work in the United States, work history, employment status, employer, salary, and offer and start dates)
+a.
+Purposes for Collection: (1) Recruitment and Hiring:
+To process job applications, assess qualifications, conduct interviews, perform lawful reference and background checks, make hiring decisions, and communicate with you during the recruitment process.
+(2) Onboarding and Employment Administration:
+To prepare and manage employment agreements, establish payroll and benefits, assign work resources, and maintain personnel records.
+(3) Legal and Regulatory Compliance:
+To verify work eligibility, comply with tax, labor, and employment laws, respond to governmental or legal inquiries, fulfill regulatory reporting requirements, and comply with lawful requests.
+(4) Internal Operations and Security:
+To manage workforce planning, training, performance reviews, access control, workplace safety, and security monitoring, and to investigate potential violations of company policies.
+(5) Business Transitions:
+In the event of a corporate transition such as a merger, acquisition, consolidation, or similar transaction, including during due diligence.\
+(6) Other Uses:
+For purposes disclosed at the time of data collection or as authorized by your consent.
+b.
+Categories of Third Parties the Data May Be Disclosed To:
+(1) Affiliated Companies;\
+(2) Technology Systems Service Providers , including payroll processors, HR software providers, webhosts, and other technology vendors supporting employment administration;
+(3) Security Vendors;\
+(4) Benefits Providers and Administrators;\
+(5) Government Agencies and Law Enforcement or Where Required By Law;\
+(6) Third Parties in connection with court or other legal actions;\
+(7) Third Parties who acquire the information in connection with a business transition;\
+(8) Third Parties to whom you agree or direct us to share your information;\
+(9) Other service providers who use your data solely to provide services to us in connection with employment or HR functions.
+c. Third Parties to whom the Data May Be Sold/Shared for Targeted Advertising:
+This category of data is not sold or shared for targeted advertising
+H. Demographic Information (such as your age, sex and/or gender, and languages you speak)
+a.
+Purposes for Collection :
+(1) Providing Services : This includes processing your transactions, fulfilling your orders, delivering content or other services, managing your account, enabling participation in promotions sending service-related communications, responding to inquiries, offering customer support, and sending requested information like newsletters or order updates It also covers sending reminders for abandoned carts or browsing sessions.
+(2) Marketing and Advertising
+We may send you special offers, promotions, invitations, and similar communications from us, our advertisers, or third parties. This may include the use of cookies, tracking technologies, and profiling to deliver targeted or personalized marketing messages, either through our own channels or through third-party platforms.
+(3) Personalization
+to cater to your preferences, we tailor content, advertising, and recommendations to you across our Services and on other platforms, as well as manage ad delivery, performance, and frequency.
+(4) Internal Operations
+To enhance our products, services, and marketing efforts, we analyze trends, troubleshoot issues, conduct audits, perform market research, assess the effectiveness of our marketing efforts and conduct performance and usage analytics.
+(5) Security Measures
+We work to investigate, prevent, detect, and protect against system misuse, criminal activity, or any actions that violate our policies.
+(6)
+Recruitment
+For processing job applications, facilitating your job search, and preparing related internal or governmental statistical statistics reports.
+(7) Legal Compliance
+to comply with legal obligations, resolve disputes, enforce our agreements and policies (including the Honor Code, where applicable), cooperate with governmental or legal inquiries, and fulfill regulatory reporting requirements, as well as protect the rights and assets of ourselves and others.
+(8) Business Transitions
+(In the event of a corporate transition such as a merger, acquisition, or consolidation, including during due diligence.
+(9) Other Uses
+For purposes disclosed at the time of data collection or as authorized by your consent, including the use of user data to train, fine-tune, or improve AI models, provided such use complies with applicable laws and user consent requirements.
+b.
+Categories of Third Parties the Data May Be Disclosed To:
+(1) Other Users , including instructors and students, depending on the Services you interact with;
+(2) Advertising and Analytics Partners ;
+(3) Social Media and Other Third Party Platforms; (4) Business Partners , such as those whose products and services are bundled with Solvely.ai's and other joint marketing and similar partners ; (5) Affiliated Companies ;
+(6) Technology Systems Service Providers , including web hosts, database hosts, software-as-a-service or other cloud computing providers, and technology maintenance and repair vendors;
+(7) Security Vendors ;
+(8) Government Agencies
+and Law Enforcement or Where Required By Law ;
+(9) Third Parties in connection with court or other legal actions ;
+(10) Third Parties who acquire the information in connection with a business transition ;
+(11) Third Parties to whom you agree or direct us to share your information ;
+(12) Communications Services Providers
+(email delivery and text messaging vendors);
+(13) Sweepstakes/Contest Partners , such as administrators, other prize providers, and prize fulfillment vendors;
+(14) Other service providers who use your data solely to provide services to us or to you
+c. Third Parties to whom the Data May Be Sold/Shared for Targeted Advertising:
+(1) Advertising and Analytics Partners ;
+(2) Social Media and Other Third Party Platforms; (3) Business Partners
+I. Live Interactions (including your inputs --- such as photos, videos, audio recordings, text entries, and questions --- and our corresponding responses, outputs, and solutions generated by or provided through the Services)
+a.
+Purposes for Collection:
+(1) Providing Services : This includes processing your transactions, fulfilling your orders, delivering content or other services, managing your account, enabling participation in promotions sending service-related communications, responding to inquiries, offering customer support, and sending requested information like newsletters or order updates It also covers sending reminders for abandoned carts or browsing sessions, generating and storing transcripts of recorded educational content to support your learning, and compiling and using performance analytics (including user assessment results and progress data) to provide feedback, monitor learning outcomes, and enhance our AI-assisted quiz, exam or certification preparation programs and related services.
+(2)
+Administrative Functions
+This involves recognizing you across devices, verifying your identity, contacting you about your use of the Services or products and informing you of policy changes
+(3) Internal Operations
+To enhance our products, services, and marketing efforts, we analyze trends, troubleshoot issues, conduct audits, perform market research, assess the effectiveness of our marketing efforts, and conduct performance and usage analytics, including aggregated or anonymized analysis of recorded and transcribed educational content to improve summarization accuracy and note-taking features.
+(4) Security Measures
+We work to investigate, prevent, detect, and protect against system misuse, , criminal activity, or any actions that violate our policies
+(5)
+Recruitment
+For processing job applications, facilitating your job search, and preparing related internal or governmental statistical statistics reports
+(6) Legal Compliance
+to comply with legal obligations, resolve disputes, enforce our agreements and policies( including the Honor Code, where applicable), cooperate with governmental or legal inquiries, and fulfill regulatory reporting requirements, as well as protect the rights and assets of ourselves and others.
+(7) Business Transitions
+(In the event of a corporate transition such as a merger, acquisition, consolidation, or bankruptcy, including during due diligence.
+(8) Other Uses
+For purposes disclosed at the time of data collection or as authorized by your consent, including the use of user data to train, fine-tune, or improve AI models, provided such use complies with applicable laws and user consent requirements. Additionally, user-generated inputs, including questions, photos, or other inputs, along with AI-generated solutions or step-by-step outputs provided through the Services, may be stored in our systems and posted publicly on forums or other publicly accessible web pages or channels to share insights, foster community engagement, or highlight user contributions. No personally identifiable information or account details of the user who uploaded the content will be shared.
+b. Categories of Third Parties the Data May Be Disclosed To: (1) Other Users , including instructors and students, depending on the Services you interact with;
+(2) Business Partners , such as those whose products and services are bundled with Solvely.ai's and other joint marketing and similar partners;
+(3) Affiliated Companies ;
+(4) Technology Systems Service Providers , including webhosts, database hosts, software-as-a-service or other cloud computing providers, and technology maintenance and repair vendors;
+(5) Security Vendors ;
+(6) Government Agencies and Law Enforcement or Where Required By Law; (7) Third Parties in connection with court or other legal actions; (8) Third Parties who acquire the information in connection with a business transition; (9) Third Parties to whom you agree or direct us to share your information; (10) Other service providers who use your data solely to provide services to us or to you.
+c. Third Parties to whom the Data May Be Sold/Shared for Targeted Advertising:
+This category of data is not sold or shared for targeted advertising.
+J. Sensory and Photo/Video Data and Other User Generated Content (such as your profile picture; audio, video, or image, or text that you submit in connection with reviews, survey responses, live chat and other customer service interactions, or other submissions to our Services, including any data you provide as inputs, prompts, or requests for our Services.)
+a. Purposes for Collection: (1) Providing Services : This includes processing your transactions, fulfilling your orders, delivering content or other services, managing your account, enabling participation in promotions sending service-related communications, responding to inquiries, offering customer support, and sending requested information like newsletters or order updates. It also covers sending reminders for abandoned carts or browsing sessions, generating and storing transcripts of recorded educational content to support your learning, and compiling and using performance analytics (including user assessment results and progress data) to provide feedback, monitor learning outcomes, and enhance our AI-assisted quiz, exam or certification preparation programs and related services.
+(2) Administrative Functions : This involves recognizing you across devices, verifying your identity, contacting you about your use of the Services or products and informing you of policy changes.
+(3) Internal Operations : To enhance our products, services, and marketing efforts, we analyze trends, troubleshoot issues, conduct audits, perform market research, assess the effectiveness of our marketing efforts and conduct performance and usage analytics, including aggregated or anonymized analysis of recorded and transcribed educational content to improve summarization accuracy and note-taking features.
+(4) Security Measures : We work to investigate, prevent, detect, and protect against system misuse, criminal activity, or any actions that violate our policies.
+(5) Recruitment : For processing job applications, facilitating your job search, and preparing related internal or governmental statistical statistics reports.
+(6) Legal Compliance : to comply with legal obligations, resolve disputes, enforce our agreements and policies (including the Honor Code, where applicable), cooperate with governmental or legal inquiries, and fulfill regulatory reporting requirements, as well as protect the rights and assets of ourselves and others.
+(7) Business Transitions : In the event of a corporate transition such as a merger, acquisition, consolidation, or bankruptcy, including during due diligence.
+(8) Other Uses : For purposes disclosed at the time of data collection or as authorized by your consent, including the use of user data to train, fine-tune, or improve AI models, provided such use complies with applicable laws and user consent requirements. Additionally, user-generated inputs, including questions, photos, or other inputs, along with AI-generated solutions or step-by-step outputs provided through the Services, may be stored in our systems and posted publicly on forums or other publicly accessible web pages or channels to share insights, foster community engagement, or highlight user contributions. No personally identifiable information or account details of the user who uploaded the content will be shared.
+b. Categories of Third Parties the Data May Be Disclosed To: (1) Other Users , including instructors and students, depending on the Services you interact with;
+(2) Business Partners , such as those whose products and services are bundled with Solvely.ai\'s and other joint marketing and similar partners;
+(3) Affiliated Companies ;
+(4) Technology Systems Service Providers , including webhosts, database hosts, software-as-a-service or other cloud computing providers, and technology maintenance and repair vendors;
+(5) Security Vendors ;
+(6) Government Agencies and Law Enforcement or Where Required By Law ;
+(7) Third Parties in connection with court or other legal actions ;
+(8) Third Parties who acquire the information in connection with a business transition ;
+(9) Third Parties to whom you agree or direct us to share your information ;
+(10) Other service providers who use your data solely to provide services to us or to you.
+c. Third Parties to whom the Data May Be Sold/Shared for Targeted Advertising : This category of data is not sold or shared for targeted advertising.
+d. Recording and Transcription Data:
+When you use our recording and transcription features:
+Audio Processing:
+We temporarily process audio data to convert it to text. Original audio files are stored securely in the user's account so that users may access, manage, or reuse them as needed. We do not sell, share, or otherwise use such audio files for any commercial or unlawful purposes. Users retain full control over their audio files and may delete them from their account at any time.
+Text Transcripts:
+The text transcripts generated from your recordings are securely stored in your account. These transcripts are visible only to you unless you actively choose to share them.
+Control:
+You have full control over your transcripts and audio files and can access, edit, or delete them as applicable at any time through your account settings.
+Compliance:
+We understand and respect FERPA (Family Educational Rights and Privacy Act) requirements. We handle transcript data in accordance with FERPA and other applicable privacy regulations, to the extent such laws apply to our role and the Services we provide.
+Retention : We retain your transcript data and audio file indefinitely until you explicitly delete it or request deletion, ensuring your valuable transcripts remain accessible whenever you need them. If you would like us to delete any such data uploaded or generated by you, please send a request to
+privacy@solvely.ai
+or use the self-service deletion feature available in your account settings.
+User Responsibility and Legal Compliance:
+Users are solely responsible for ensuring that any recording, upload, or use of our services complies with all applicable laws, institutional policies, and third-party rights, including those governing consent to record communications. By using these features, you represent and warrant that you have obtained all necessary permissions and authorizations required under applicable law.
+K. Data Revealing Racial Origin (such as audio, video, or pictorial information)
+a.
+Purposes for Collection:
+(1) Providing Services
+This includes processing your transactions, fulfilling your orders, delivering content or other services, managing your account, enabling participation in promotions sending service-related communications, responding to inquiries, offering customer support, and sending requested information like newsletters or order updates. It also covers sending reminders for abandoned carts or browsing sessions, generating and storing transcripts of recorded educational content to support your learning, and compiling and using performance analytics (including user assessment results and progress data) to provide feedback, monitor learning outcomes, and enhance our AI-assisted quiz, exam or certification preparation programs and related services.
+(2)
+Administrative Functions
+This involves recognizing you across devices, verifying your identity, contacting you about your use of the Services or products and informing you of policy changes
+(3) Internal Operations
+To enhance our products, services, and marketing efforts, we analyze trends, troubleshoot issues, conduct audits, perform market research, assess the effectiveness of our marketing efforts and conduct performance and usage analytics, including aggregated or anonymized analysis of recorded and transcribed educational content to improve summarization accuracy and note-taking features.
+(4) Security Measures
+We work to investigate, prevent, detect, and protect against system misuse, , criminal activity, or any actions that violate our policies
+(5)
+Recruitment
+For processing job applications, facilitating your job search, and preparing related internal or governmental statistical statistics reports
+(6) Legal Compliance
+to comply with legal obligations, resolve disputes, enforce our agreements and policies( including the Honor Code, where applicable), cooperate with governmental or legal inquiries, and fulfill regulatory reporting requirements, as well as protect the rights and assets of ourselves and others.
+(7) Business Transitions
+(In the event of a corporate transition such as a merger, acquisition, consolidation, or bankruptcy, including during due diligence.
+(8) Other Uses
+For purposes disclosed at the time of data collection or as authorized by your consent, including the use of user data to train, fine-tune, or improve AI models, provided such use complies with applicable laws and user consent requirements. Additionally, user-generated inputs, including questions, photos, or other inputs, along with AI-generated solutions or step-by-step outputs provided through the Services, may be stored in our systems and posted publicly on forums or other publicly accessible web pages or channels to share insights, foster community engagement, or highlight user contributions. No personally identifiable information or account details of the user who uploaded the content will be shared.
+b.
+Categories of Third Parties the Data May Be Disclosed To:
+(1) Other Users , including instructors and students, depending on the Services you interact with;
+(2) Affiliated Companies ;
+(3) Technology Systems Service Providers , including webhosts, database hosts, software-as-a-service or other cloud computing providers, and technology maintenance and repair vendors;
+(4) Customer Service Providers
+(email delivery and text messaging vendors);
+(5) Security Vendors ;
+(6) Government Agencies and
+Law Enforcement or Where Required By Law ;
+(7) Third Parties in connection with court or other legal actions ;
+(8) Third Parties who acquire the information in connection with a business transition ;
+(9) Third Parties to whom you agree or direct us to share your information; (10) Other service providers who use your data solely to provide services to us or to you.
+c. Third Parties to whom the Data May Be Sold/Shared for Targeted Advertising:
+This category of data is not sold or shared for targeted advertising.
+L. Information About Your Interests and Preferences (such as your learning goals, work/education history, academic interests and clubs or sports you participate in)
+a.
+Purposes for Collection:
+(1) Providing Services : This includes processing your transactions, fulfilling your orders, delivering content or other services, managing your account, enabling participation in promotions sending service-related communications, responding to inquiries, offering customer support, and sending requested information like newsletters or order updates. It also covers sending reminders for abandoned carts or browsing sessions, generating and storing transcripts of recorded educational content to support your learning, and compiling and using performance analytics (including user assessment results and progress data) to provide feedback, monitor learning outcomes, and enhance our AI-assisted quiz, exam or certification preparation programs and related services.
+(2) Marketing and Advertising
+We may send you special offers, promotions, invitations, and similar communications from us, our advertisers, or third parties. This may include the use of cookies, tracking technologies, and profiling to deliver targeted or personalized marketing messages, either through our own channels or through third-party platforms.
+(3) Personalization
+to cater to your preferences, tailor content, advertising, and recommendations to you across our Services and on other platforms, as well as manage ad delivery, performance, and frequency.
+(4) Internal Operations
+To enhance our products, services, and marketing efforts, we analyze trends, troubleshoot issues, conduct audits, perform market research, assess the effectiveness of our marketing efforts and conduct performance and usage analytics, including aggregated or anonymized analysis of recorded and transcribed educational content to improve summarization accuracy and note-taking features.
+(5) Security Measures
+We work to investigate, prevent, detect, and protect against system misuse, criminal activity, or any actions that violate our policies.
+(6) Legal Compliance
+to comply with legal obligations, resolve disputes, enforce our agreements and policies (including the Honor Code, where applicable), cooperate with governmental or legal inquiries, and fulfill regulatory reporting requirements, as well as protect the rights and assets of ourselves and others.
+(7) Business Transitions
+(In the event of a corporate transition such as a merger, acquisition, consolidation, or bankruptcy, including during due diligence.
+(8) Other Uses
+For purposes disclosed at the time of data collection or as authorized by your consent, including the use of user data to train, fine-tune, or improve AI models, provided such use complies with applicable laws and user consent requirements.
+b.
+Categories of Third Parties the Data May Be Disclosed To: (1) Affiliated Companies ;
+(2) Third Party Advertising and Analytics Partners , such as advertising and analytics companies, third party advertisers, and marketing agencies, including those who assist us with surveys and market or product research and development;
+(3)
+Social Media and Other Third Party Platforms; (4) Business Partners , such as those whose products and services are bundled with Solvely.ai's and other joint marketing and similar partners;
+(5)
+Technology Systems Service Providers , including webhosts, database hosts, software-as-a-service or other cloud computing providers, and technology maintenance and repair vendors;
+(6) Customer Service Providers
+(email delivery and text messaging vendors);
+(7) Government Agencies and Law Enforcement/Where Required By Law , including third parties in connection with a court or other legal proceeding ; (8) Third Parties who acquire the information in connection with a business transition ;
+(9) Third Parties to whom you agree or direct us to share your information; (10) Other service providers who use your data solely to provide services to us or to you.
+c. Third Parties to whom the Data May Be Sold/Shared May Be Targeted Advertising:
+(1) Third Party Advertising and Analytics Partners; (2) Social Media and Other Third Party Platforms; (3) Business Partners
+M. Device ID/Information
+a. Purposes for Collection:
+(1) Providing Services : This includes processing your transactions, fulfilling your orders, delivering content or other services, managing your account, enabling participation in promotions sending service-related communications, responding to inquiries, offering customer support, and sending requested information like newsletters or order updates. It also covers sending reminders for abandoned carts or browsing sessions, generating and storing transcripts of recorded educational content to support your learning, and compiling and using performance analytics (including user assessment results and progress data) to provide feedback, monitor learning outcomes, and enhance our AI-assisted quiz, exam or certification preparation programs and related services.
+(2) Marketing and Advertising
+We may send you special offers, promotions, invitations, and similar communications from us, our advertisers, or third parties. This may include the use of cookies, tracking technologies, and profiling to deliver targeted or personalized marketing messages, either through our own channels or through third-party platforms.
+(3) Personalization
+to cater to your preferences, tailor content, advertising, and recommendations to you across our Services and on other platforms, as well as manage ad delivery, performance, and frequency.
+(4)
+Administrative Functions
+This involves recognizing you across devices, verifying your identity, contacting you about your use of the Services or products and informing you of policy changes
+(5) Internal Operations
+To enhance our products, services, and marketing efforts, we analyze trends, troubleshoot issues, conduct audits, perform market research, assess the effectiveness of our marketing efforts and conduct performance and usage analytics, including aggregated or anonymized analysis of recorded and transcribed educational content to improve summarization accuracy and note-taking features.
+(6) Security Measures
+We work to investigate, prevent, detect, and protect against system misuse, criminal activity, or any actions that violate our policies
+(7) Legal Compliance
+to comply with legal obligations, resolve disputes, enforce our agreements and policies (including the Honor Code, where applicable), cooperate with governmental or legal inquiries, and fulfill regulatory reporting requirements, as well as protect the rights and assets of ourselves and others.
+(8) Business Transitions
+(In the event of a corporate transition such as a merger, acquisition, consolidation, bankruptcy, including during due diligence.
+(9) Other Uses
+For purposes disclosed at the time of data collection or as authorized by your consent, including the use of user data to train, fine-tune, or improve AI models, provided such use complies with applicable laws and user consent requirements.
+b.
+Categories of Third Parties the Data May Be Disclosed To: (1) Advertising and Analytics Partners , such as analytics companies, third party advertisers, marketing agencies, including those who assist us with surveys and market or product research and development;
+(2) Social Media and Other Third Party Platforms ;
+(3) Sweepstakes/Contest Partners ;
+(4) Business Partners , such as those whose products and services are bundled with Solvely.ai's and other joint marketing and similar partners;
+(5) Affiliated Companies ;
+(6) Order Fulfillment Vendors , including payment processors, fulfillment centers, delivery services, order tracking vendors;
+(7) Technology Systems Service Providers , including webhosts, database hosts, software-as-a-service or other cloud computing providers, and technology maintenance and repair vendors;
+(8) Communications Service Providers , including email delivery vendors and text messaging service providers;
+(9) Security Vendors ;
+(10) Customer Service Providers , including call centers and live chat vendors;
+(11) Government Agencies
+and Law Enforcement or Where Required By Law ;
+(12) Third Parties in connection with court or other legal actions ;
+(13) Third Parties who acquire the information in connection with a business transition ;
+(14) Third Parties to whom you agree or direct us to share your information; (15) Other service providers who use your data solely to provide services to us or to you
+c. Third Parties to whom the Data May Be Sold/Shared for Targeted Advertising: (1) Advertising and Analytics Partners ;
+(2) Social Media and Other Third Party Platforms; (3) Third Party Business Partners
+Additional Information Regarding Certain Information and Uses
+We provide in this section additional detail about the information practices listed above, where it would be helpful for your understanding of such practices.
+A. Data We Collect Automatically
+a. Device Data/Information.
+We, along with our service providers, business partners, and other third parties, may automatically gather and store specific information when you access or engage with the Services (" Device Data/Information "). This Device Data/Information can be retrieved or stored from your computer, tablet, smartphone, or any other device you use to access or interact with the Services. This information may include, but is not limited to: Your IP address, mobile device identifier and other unique device identifiers;
+Details about your device, such as the model, operating system version, device date and time, and mobile network information;
+The approximate location of your device, which may be determined or inferred based on other data we collect, such as your IP address;
+Information about how you interact with the Services, including search queries, pages visited, content viewed, and your preferences;
+Device Data/Information may be collected through various technologies, including:
+Cookies and Local Storage.
+Cookies and local storage are small text files placed on your browser or device when you access the Services. Some web browsers and browser extensions may offer additional methods for storing local data. We utilize cookies, including first-party cookies, and similar technologies to enhance the security of your use of the Services, analyze traffic patterns, evaluate the effectiveness of our customer communications, maintain the integrity of the Services, gather crash analytics and other maintenance-related data, manage and assess the performance of advertisements displayed on or delivered through the Services, and personalize your experience, such as recognizing you upon your return. Most browsers allow you to disable, decline, or delete cookies and local storage; refer to your browser's settings for more details. However, disabling cookies may impact your ability to access certain features of the Services. For additional information on cookies, please visit https://www.aboutcookies.org.
+Web Beacons.
+We may use small graphic images or other types of web programming code (commonly referred to as web beacons, pixel tags, 1x1 GIFs, or clear GIFs) within our web pages and email communications. These technologies serve various purposes, such as tracking the number of visitors to the Services, observing how users navigate through the Services, measuring the open rates of our email communications, and monitoring how often specific products are viewed. Information gathered through these technologies may include the date and time you first open our email and whether you interact with any links within the email.
+Embedded Scripts.
+Embedded scripts are programming codes integrated into the Services, intended to gather data on your interactions, such as the links you select. These scripts are temporarily activated by our server, a third-party service provider, or a business partner while you are using or interacting with the Services. Once you leave or disconnect from the Services, the code is either deactivated or removed.
+Software Development Kits (SDKs) . SDKs are software bundles that provide a collection of tools designed to assist in building applications and integrating new features in existing apps. These tools enable the creation and operation of features that gather data from your device.
+Data Collection from Mobile Devices . We may utilize embedded scripts and SDK tools to gather data from mobile devices, including hardware models, operating system versions, and unique identification numbers assigned to your device (such as the ID for Advertising (IDFA) on Apple devices and the Advertising ID on Android devices), mobile network details, and your browser behavior. Additionally, we may employ various other technologies that capture similar information for purposes such as security, fraud detection, and system maintenance.
+b. Session Replay Technology.
+Solvely.ai may use session replay technology to capture and record your interactions with our user interfaces, including details like how long you stay on certain pages, the links you click, and any information you enter. This data is collected for our internal purposes, such as for conducting website analytics, enhancing the functionality of the Solvely.ai websites, improving our products and Services, and addressing any technical issues.
+B. Data You Provide Directly
+a. Live Chat Features.
+When you engage with our chat features, including Solvely.ai Support sessions or AI-assisted functions, we may record, utilize, and retain the information you provide, as well as the communications within the chat. This information is used to deliver the Services, assist you during the conversation, support your account, subscription, or services, and enhance the overall quality of the Services. By using the chat features, you acknowledge and consent to such recording and retention. If you do not agree to these terms, please refrain from using the chat features.
+b. Recording.
+If you utilize our recording and AI note-taking service, we may record calls or conversations with your explicit consent as indicated by your use of such services, including individual meetings and class instruction sessions, to ensure quality and security. When a call is recorded, you will be notified within the video call tool. You may withdraw your consent to the continued use of such services by stopping the recording at any time and deleting the audio files; however, doing so may limit your access to certain features. Your consent is considered given once you begin or continue the recording.
+c. Photos and Videos . You may upload photos and videos to the Services or send them to us as described earlier. Depending on applicable laws and regulations, such materials might be categorized as biometric information. To clarify, Solvely.ai does not create records of facial geometry from your photos or videos, nor do we use these materials for facial recognition, facial surveillance, or as biometric identifiers. However, if you post photos or videos publicly on our Services or if we share these materials with third parties as outlined in our Privacy Policy, we cannot control or guarantee how those third parties use them. Their use of your photos or videos may differ from our practices. We recommend you exercise caution when sharing sensitive content and review third-party privacy policies when applicable.
+d. Employment Applications.
+When you apply for a job at Solvely.ai, we or our service provider(s) might request self-identifying details such as your veteran status, gender, and ethnicity, in compliance with regulations from the Equal Employment Opportunity Commission and other federal, state, and local authorities. Providing such information is optional, but if you choose to share it, we and/or our service providers may use it to meet reporting obligations. Additionally, we may use a third-party careers portal; if so, your use of that portal will be governed by the privacy policies of the third party operating the portal.
+e. Sweepstakes, Contests and Promotions.
+We may host sweepstakes, contests, or other promotional events (collectively referred to as " Promotions ") that might require you to register. By entering a Promotion, you agree to abide by its terms, conditions, or official rules, which may include specific requirements, such as allowing the Promotion's sponsor(s) to use your name, voice, likeness, or other personal attributes in advertising or marketing efforts, where not prohibited by law. If you participate in a Promotion, your personal information may be shared with third parties or made public as part of the Promotion's administration, including during winner selection, prize distribution, or as mandated by legal requirements, or the Promotion's official rules (e.g. on a winner's list).
+C. Data We Receive or Collect from Third Parties
+a. Referral Features.
+We may offer referral features that enable you to directly send invitations, content, or other information to a third party through our Services. When you use this functionality, the details you provide about the recipient (such as their name and e-mail address) are used to facilitate the communication. The information you include in the message, like your name and your email address, will naturally be shared with the recipient. By providing any personal information about others, you confirm that you have the authority to do so and to allow us to use that information in line with this Privacy Policy.
+b. Information from Other Third Parties.
+We may obtain information about you from external sources, including business partners, data providers who supplement our existing data about you, publicly available resources, and other users of the Services (for example, when they share your information to send you one of our products or participate in a "refer a friend" or similar programs that we may offer).
+D. Data We Disclose to Third Parties.
+We may disclose non-personal information, such as certain Usage Information, hashed or otherwise de-identified or pseudonymized information, and aggregated user statistics, to third parties at our discretion and as allowed by law, including for purposes such as targeted advertising. Additionally, we may share the information we collect about you, including Personal Information, in the circumstances outlined below or elsewhere in this Privacy Policy, as disclosed at the time of collection, or with your consent. We do not share Personal Information with unaffiliated third parties for their direct marketing purposes unless you have been provided an opportunity to consent (opt-in, or where legally permitted, opt-out). Specifically, any phone numbers collected through our SMS/MMS/text message programs will only be shared with third parties that assist in providing these messaging services (e.g., platform providers, phone companies, and other vendors). Please note that we are not responsible for the privacy practices of third parties. If you wish to opt out of communications from a third party or have concerns about their privacy practices, you must contact them directly.
+a. Academic Investigations.
+Some of our Services include an Honor Code, which may differ based on your location. By using these Services, you agree to comply with the Honor Code relevant to your country. We may disclose personal information as stipulated by the applicable Honor Code.
+b. Publicly Available Content and Other Disclosures at Your Direction.
+Your user content and profile information might be visible to other registered users of the Services and visitors of the Services, especially if you post a public comment. The Services may also enable you to communicate and collaborate with others, including via video or text chat. Additionally, we may share your information when you instruct us to do so, such as by consenting to post your testimonial with your name, linking your account with a social networking service or other third-party application, or opting to receive marketing offers from third parties. Please note that we do not control the actions of third parties, so you share your content and information at your own risk.
+c. Third Party Offers/Bundled Products.
+We may provide third-party services through our platform or make our Services available to you via a third party. By enrolling in a third-party service or accessing our Services through a third party, you consent to us sharing your information with that third party (or parties), making your information subject to their privacy policies and practices. This applies, for example, when you use our Services to buy products or services that are partially or fully provided by third parties. Additionally, you may request, often via an interactive or social media feature, that we share your information with a third party or make it public.
+d. Other Business Partners.
+Certain aspects of our Services are managed by third-party providers as mentioned. When you engage with these third-party services through our platform, your interactions will be governed by their privacy policies. We may also share specific information with the third party business partners you interact with. This information could include your personal data, which the third party may use to send you direct communications and promotional materials about their goods and/or services, either directly or via the Services.
+e. Disclosures During Business Transfers.
+If Solvely.ai undergoes a business transition, Solvely.ai reserves the right to disclose and transfer all personal information associated with the Services. This may occur (i) to a future owner, co-owner or operator of the Services; or (ii) in relation to a corporate merger, consolidation, restructuring, bankruptcy, the sale of certain Solvely.ai ownership interests, assets, or both, or any other organizational change. By providing your information, you agree that we may transfer this information to the acquiring entity without requiring further consent, except as mandated by law.
+f. Third Parties Providing Services on Our Behalf.
+We may share information with third-party service providers or permit them to collect information about you in order to carry out services on our behalf. These services may include website hosting, performing website usage analytics, sending emails, texts, or other communications, fulfilling orders, providing marketing support and data analysis, processing payments, and other related services. Additionally, we may share user information or potentially fraudulent activities with our fraud prevention service providers. These providers will use the shared information to help us and their other clients in preventing fraudulent and illegal transactions.
+g. Social Media and Other Third-Party Platforms.
+We may host or facilitate interactions with social media or other third-party platforms, such as Google, Apple, Facebook, Twitter, Pinterest, YouTube, and LinkedIn, which may include the use of their login service. When you engage with these third-party platforms through our Services, we may receive information about you from these platforms\' service and you will be sharing your interactions with Solvely.ai with the respective social media service.
+Additionally, these third-party platforms\' service may set their own cookies and collect data about your use of the Services, such as your IP address, device identifiers, and the specific pages you visit. These platforms can collect certain information during your visits to our Services, regardless of whether you actively interact with their features or are logged into an account with them. If you are logged out or do not have an account but visit a page containing a social plug-in, your browser will send a limited set of data. Like other websites, these platforms will receive information such as the webpage you are visiting, the date and time of your visit, and other browser-related details, which may be used to improve their products or for other purposes outlined in their privacy policy. We may also receive information about you if other users of social media grant us access to their profiles and you are one of their connections or \"friends.\"
+The information we collect through these interactions is governed by this Privacy Policy. However, the data collected and stored by the third party is subject to their own privacy practices, including, but not limited to, whether they continue to share information with us, the types of information shared, and your options regarding what is visible to others on their platform. If the third party allows you to remove that application or feature, we will stop collecting information through the application or feature, but we may retain any information that was previously collected.
+Please be aware that if you choose to post information to a third-party platform, that information may become public.
+Third Party Advertising and Analytics/Privacy Controls/Do-Not-Track
+Solvely.ai may partner with third party companies, such as online advertisers, marketing agencies, and analytics providers, to display Solvely.ai advertisements across the internet and to gather insights on the use of our Services as well as the effectiveness of our marketing efforts. These third parties may deploy their own tracking technologies (like cookies and web tags) on your device, and they may collect or access Device ID/Information and other data about you, some of which could be classified as personal data under certain state laws. In some cases, these parties may collect personal data over time as you interact with the Services or other websites and online platforms. We may share information with these third parties usually information that has been aggregated or de-identified, pseudonymized, Device ID/Information, and location information with third-party advertising companies, analytics providers, and other third parties, to provide you with more relevant advertisements both on and off our Services. If you wish to opt-out of third-party advertising and analytics, several options are available to you:
+Our Cookie Opt-Out Tools.
+We are actively working to implement a full cookie opt-out tool to provide a seamless experience. In the meantime, to opt out of the sale or sharing of personal information, including through cookies used for targeted advertising, please email privacy@solvely.ai or configure your browser to send the Global Privacy Control signal. If you are a California resident, please refer to our [NOTICE TO CALIFORNIA RESIDENTS]{.underline} for additional rights, including information on how to exercise your "Do Not Sell" and "Do Not Share" rights.
+Do Not Track.
+Some web browsers offer a "Do Not Track"(DNT) that sends a signal to websites, analytics companies, ad networks, plug-in providers, and/or other web services to stop tracking your browsing activity. When you enable DNT in your browser, this signal is sent to all web services you interact with. You can learn more about and set up
+Do Not Track here [.]{.underline}
+Global Privacy Controls.
+GPC is a browser setting that allows you to automatically communicate your privacy preferences regarding third-party tracking to websites. You can learn more about and set up
+GPC here .
+NAI/DAA Opt-Out.
+Some of the third-party companies we work with are members of the Network Advertising Initiative (" NAI ") or Digital Advertising Alliance (" DAA "). The NAI offers detailed information about targeted advertising and the
+opt-out procedures of NAI members , including mechanisms for web browsers, mobile devices, and other connected devices. It also offers an option to opt out of interest-based advertising using your hashed email address. You can also visit the
+DAA\'s website , which provides similar information about targeted advertising and offers an opt-out tool for DAA-participating member companies.
+Mobile Device/AppChoices.
+Many mobile devices include settings that allow you to disable tracking for advertising and/or analytics purposes. Additionally, the digital advertising industry has developed the
+AppChoices
+app, which enables mobile users to opt out of targeted advertising across participating companies.
+Google Analytics/Google Ads/PostHog/Intercom/Firebase/Adjust/Rewardful/Clarity.
+We might utilize Google Analytics, which employs cookies and similar technologies to gather and analyze data regarding your use of the Services, as well as to generate reports on user activities and trends. Google Analytics may also be used for advertising and marketing purposes, including remarketing and audience targeting. Google Ads may be used for advertising and marketing purposes, including ad personalization, conversion tracking, remarketing, and audience targeting across Google properties and partner sites.
+PostHog and Intercom use cookies to track user sessions and interactions. Firebase may use cookies or similar technologies for authentication, analytics, performance monitoring, and personalization (particularly for web-based Services), while in mobile apps it may collect device identifiers instead of cookies. Adjust primarily uses mobile advertising identifiers for attribution and analytics in mobile apps and may use cookies when implemented on the web. Rewardful uses first-party cookies to track referrals and affiliate activity on web-based Services. Rewardful cookies help ensure accurate attribution and calculation of rewards or commissions.
+Google Ads and Google Analytics may also collect information about your interactions with other websites, apps, and online services in order to build aggregated audience segments and deliver more relevant advertising. You can learn about
+Google\'s practices , and opt out of them by downloading the
+Google Analytics opt-out browser add-on
+and by visiting Google's Ads Settings page to manage personalized advertising preferences. Information on opt-outs for Firebase and Adjust can be requested via
+privacy@solvely.ai , noting that opt-out methods may differ depending on whether you use our Services via web or mobile app. Information on opt-outs for PostHog, Intercom and Rewardful can be requested via
+privacy@solvely.ai .
+We may also use Microsoft Clarity, including its mobile SDK, to better understand how users interact with our Services. In our mobile applications, Clarity collects interaction data through SDK-based technologies rather than cookies, including touch gestures, screen navigation, session duration, device type, operating system, app version, and diagnostic data. Clarity may record user sessions and generate visual insights such as heatmaps and session replays to help us improve user experience.
+Data collected through Clarity may be shared with Microsoft and processed in accordance with Microsoft's privacy practices. We configure Clarity to avoid collecting sensitive personal data and to mask input fields where feasible. You may limit Clarity data collection by adjusting your device or app privacy settings, or by contacting us at privacy@solvely.ai for assistance.
+Please be aware that opting out through these methods will not eliminate advertising all together; you will still receive generic ads while browsing online. It's important to note that your opt-out preferences are specific to each browser and device. If you clear your cookies, update your browser after opting out, or use multiple devices or browsers, you'll need to repeat the opt-out process on each one individually. Opting out of certain analytics or advertising cookies may limit our ability to measure usage, personalize content, or provide certain features, which could affect your overall experience with the Services.
+Your Choices and Opt-Out Rights
+A. Marketing Messages from Us
+We may offer you the ability to update your information or opt out of marketing communications through the profile preferences section of your account. Additionally, you can opt out of receiving marketing communications by following the instructions below.
+Email : You can unsubscribe from our marketing emails by using the opt-out link provided in each email. If you are unable to find or use the opt-out link, please send your request to us directly at privacy@solvely.ai. However, please note that we may still send you certain non-marketing communications related to your use of the Services, such as updates to this Privacy Policy or other terms, as well as other administrative and transactional messages. These communications will not be unaffected by your decision to opt out of marketing emails.
+Text Messages : If you choose to receive SMS, MMS or RCS messages from any of our Services, you can unsubscribe at any time by replying \"STOP\" to the relevant shortcode.
+Push Notifications : We may send you both promotional and non-promotional push notifications or alerts to your mobile device, which could be based on your device\'s location or proximity to a beacon. You can stop receiving those notifications by adjusting the notification settings on your mobile device at any time.
+B. Data Privacy Choices
+Opt-Out of Targeted Advertising : Solvely.ai engages in online advertising practices, including certain analytics or related activities that may be classified as \"targeted advertising\" under various laws. We are actively working to implement a full cookie opt-out tool to provide a seamless experience. In the meantime, to opt out of the sale or sharing of personal information, including through cookies used for targeted advertising, please email privacy@solvely.ai or configure your browser to send the Global Privacy Control signal. For additional information, refer to the Third Party Advertising and Analytics section above, which includes details on industry tools and device settings that may be available to you.
+Access Your Information : If you wish to confirm whether we are processing your personal data and request access to such data (where feasible, in a readily usable format to enable data portability), please email
+privacy@solvely.ai
+with your request.
+Delete Your Information : To request the deletion of your personal data, please email
+privacy@solvely.ai
+with your request.
+Correct Your Information : If you need to correct any personal data we hold about you, please email
+privacy@solvely.ai
+with your request.
+Transcript Data Controls : For transcript data and audio files generated through our recording and transcription feature:
+You must have an active account to access and review your transcripts and audio files
+You can access and review all your transcripts at any time through your account
+You can delete individual transcripts / audio files or export your data as needed
+When we transition from free to paid services, your existing transcripts will remain accessible to you
+You can request complete deletion of all your transcript data including audio files through our standard deletion request process
+C. Service Changes and Paid Features
+We may convert certain currently free features, including our recording and transcription service, to paid features in the future. When this happens:
+We will notify you at least 30 days in advance of any such changes
+Your previously created content and transcripts will remain accessible to you
+You will have the option to subscribe to paid features or continue with available free features
+We may offer new users limited free trials of paid features
+D. Region-Specific Rights
+Residents of certain U.S. states may have additional rights and options concerning their personal data. We will make reasonable efforts to honor your request, although we might need to verify your identity prior to taking action. If you reside in a U.S. state with specific rights, please refer to the additional information below.
+California : For California residents, please refer to our [NOTICE TO CALIFORNIA RESIDENTS]{.underline} for detailed information regarding your privacy rights and the procedures for verifying them.
+Colorado, Connecticut, Utah, and Virginia : We have outlined above the types of personal data we process, the purposes for processing such data, the categories of data shared, and the third parties with whom we share this data. Residents of Virginia, Colorado, Connecticut, and Utah have specific privacy rights related to this information, as detailed below. If you are a resident of one of these states (as defined in each state\'s respective law) and wish to exercise your rights under the applicable legislation and any associated regulations, please email
+privacy@solvely.ai
+with your request.
+Sensitive Data : If you reside in Virginia, Colorado, or Connecticut, we will seek your explicit consent for the processing of any Sensitive Data (as defined by the relevant state laws) we collect. For Utah residents, we will notify you at or before the time we collect Sensitive Data (as defined by Utah law) and provide an opportunity for you to opt out. Should you choose to opt out of the processing of your Sensitive Data (as defined by the applicable state laws), please contact us at
+privacy@solvely.ai .
+Opt-Out of Sales of Your Personal Data (CO, CT, UT, VA) : If you are a resident of Colorado, Connecticut, Virginia or Utah and wish to opt out of the sale of your personal data, please email
+privacy@solvely.ai
+with your request. Solvely.ai does not sell personal data to third parties for monetary compensation, as defined by the VCDPA and UCPA.
+Right to Appeal (CO, CT, VA Residents) : For residents of Colorado, Connecticut, or Virginia who wish to appeal our decision regarding your request, you have the right to submit an appeal. You can do this by emailing us at
+privacy@solvely.ai , or by following the instructions provided in the communication of our initial decision. Please include your full name, the grounds for your appeal, and any additional information relevant to your case.
+Nevada : If you are a resident of Nevada, please be aware that we do not sell your personal data (or \" covered information \") as defined in Nevada S.B. 220. However, you may still submit a request to opt out, and we would honor such a request should our practices change in the future. To submit an opt out request, please send your request to
+privacy@solvely.ai . Your request should include your full name, street address, city, state, zip code, and a valid email address to facilitate contact if necessary. Including a previously provided phone number may help us in identifying your request. You may also be required to take reasonable steps to verify your identity and/or the authenticity of your request.
+Security
+Solvely.ai implements commercially reasonable measures to protect your personal data. However, no method of data transmission over the Internet, wireless transmission, or electronic storage of information can be completely secure. Therefore, Solvely.ai cannot guarantee the absolute security of any information collected. By using our Services and sharing your information with us, you acknowledge and accept the inherent risks involved.
+For transcription data generated through our recording and transcription feature, we implement additional security measures including security audits to protect the potentially sensitive information contained in your transcripts.
+Third Party Content and Links
+Our Services may include content provided by external sources or links to third-party content or websites. Solvely.ai does not have control over external contents or websites. Third-party operators and content providers may use their cookies or other tracking technologies and may collect information about you independently. Solvely.ai is not liable for the privacy practices of these third parties.
+Consent to International Transfer
+Solvely.ai operates primarily out of the United States. When you use our Services or provide us with information, you acknowledge and consent to the transfer of your data to, and its processing, usage, sharing and storage in the United States and Japan. We may also transfer your personal information internationally for one or more of the purposes described in this Privacy Policy.
+To support our global operations, certain affiliates of ours which are located outside of your home country or region of residence may be given limited remote access to your personal data so that they can provide certain functions necessary for carrying out our Services globally. Such access is limited, secure and only granted where necessary under strict internal security and authorization approval protocols. We will make commercially best effort to ensure the existence of adequate safeguards to protect your personal data and to ensure that it is processed safely.
+Please note that the privacy protections in those international locations may not be as extensive as those in your home country. Consequently, your information could be subject to requests for access by government entities, courts, or law enforcement agencies under the laws of these jurisdictions. Additionally, your information may be shared with third parties as outlined in the "Information We Collect and How We Use and Disclose It" section.
+General Audience Sites
+THE SERVICES ARE DESIGNED FOR USERS WHO ARE 13 YEARS OF AGE OR OLDER. WE DO NOT INTENTIONALLY COLLECT PERSONAL INFORMATION FROM INDIVIDUALS UNDER 13.
+If you are a child under the age of 13, please do not register, use the Services or send us any personal data. If we become aware of any information collected from a child under the age of 13, we will delete the information promptly. If you believe that a child under the age of 13 may have provided data to us, please contact us at
+privacy@solvely.ai
+to provide the relevant information and we will handle deletion promptly.
+By using the Services, you confirm that you meet the minimum age requirements applicable in your country or region for the lawful collection and processing of your personal data.
+Changes to This Privacy Policy
+As permitted by applicable laws, we reserve the right to update this Privacy Policy at our discretion. The top of this Privacy Policy will display the date of the most recent revisions. We may also notify you of changes through other means, such as using the contact details you have provided. Continuing to use the Services after the effective date of any updated Privacy Policy indicates your acceptance of these changes, as permitted by law. If required by law, we will seek your consent (either opt-in or opt-out) before applying changes. Be aware that if you do not agree to the updated Privacy Policy, you may lose access to certain features or the entirety of the Services.
+How To Contact Us
+If you have any questions, comments, or concerns regarding our Privacy Policy and/or practices, please send an email to
+privacy@solvely.ai .
+The information you provide helps us respond directly to your inquiries or feedback. We may also archive your comments and share them with our consumer care team to enhance our services. If you have additional questions or concerns about our privacy practices, please reach out to us.
+We value the chance to address your questions, comments and concerns through the contact details above. However, depending on your jurisdiction, you may have the right to file a complaint with your local regulatory authority if you believe that our handling of your personal information does not comply with applicable laws.
+European Residents
+OUR SERVICES ARE NOT DIRECTED AT INDIVIDUALS LOCATED IN THE EUROPEAN UNION OR EUROPEAN ECONOMIC AREA, AND WE DO NOT INTENTIONALLY MARKET TO OR SEEK TO ATTRACT EU/EEA RESIDENTS.
+If you are located in the EU/EEA and choose to use our Services, Solvely.ai may, in some circumstances, be considered a \"data controller\" under the General Data Protection Regulation (GDPR) with respect to your personal data. In such cases, we will make reasonable efforts to honor certain requests permitted under applicable law, including requests to access, correct, update, or delete your personal information, or to object to limited processing activities where feasible. You may contact us at
+privacy@solvely.ai
+to make such a request. You also have the right to file a complaint with your local regulatory authority if you believe that our handling of your personal information does not comply with applicable laws.
+LEGAL BASES FOR PROCESSING PERSONAL DATA \
+Where applicable under laws like the GDPR, we may rely on the following legal bases to process your personal data:
+Contractual Necessity:
+To provide and maintain the Services you use, fulfill our agreements with you, and communicate about your account and transactions.
+Legitimate Interests:
+To improve and secure our Services, prevent fraud, personalize your experience, and send you marketing communications you may find relevant.
+Consent:
+When appropriate, we ask for your consent to use cookies, send marketing messages, or process certain data. You can withdraw consent at any time as described in our policy.
+Legal Compliance:
+To comply with legal obligations and respond to legal claims or investigations.
+Please note that our Services are primarily designed for use outside the EU/EEA, and as such, certain rights and protections available under the GDPR may not be fully available to all users.
+NOTICE TO CALIFORNIA RESIDENTS
+This California Privacy Notice outlines the disclosures and rights available to California residents concerning their Personal Information, in accordance with the California Consumer Privacy Act of 2018 (\" CCPA \"), the California Privacy Rights Act of 2020 (\" CPRA \"), and any related regulations. Terms (including defined capitalized terms) used in this California Privacy Notice have the same meanings given in the CCPA and CPRA and the associated regulations unless specified otherwise.
+EXERCISING YOUR CALIFORNIA RIGHTS
+California residents have the right to request: the following (1) disclosure of the Personal Information we collect, use, disclose, and sell, including a detailed account of the categories and specific items of Personal Information we have gathered about you (\" Right to Know \"); (2) Deletion of the Personal Information we hold about you (\" Right to Delete \"); (3) Correction of any inaccurate Personal Information we hold about you (" Right to Correct "), (4) Opt-out of the sharing of your Personal Information and Sensitive Personal Information with third parties for cross-context behavioral advertising (i.e., targeted advertising) (" Right to Opt-Out of Sharing "), (5) Opt-out of the sale of your Personal Information and Sensitive Personal Information (" Right to Opt-Out of Sale "), and (6) Limitation on the use or disclosure of your Sensitive Personal Information to only those purposes necessary and anticipated for performing services or providing goods reasonably expected by an average consumer requesting such goods or services (" Right to Limit The Use and Disclosure of Sensitive Personal Information "), all as defined by the CCPA and CPRA. Further details on each of these rights are provided below.
+To process your request, you must provide sufficient information to enable us to verify your identity or that of your authorized representative. Additionally, your request should include enough detail for us to understand, assess and respond effectively. We cannot fulfill your request without verifying your identity. You do not need to create an account with us to make a request, and we will only use the information provided for verification purposes.
+Verifying Your Requests
+We will make reasonable efforts to verify your identity based on the information you provide and the nature of your request.
+For requests related to your Right to Know, Right to Delete, and/or Right to Correct, we may require additional details beyond just your full name to confirm your identity and process your request. If we are unable to verify that the requestor is the person about whom we have collected information (or an authorized representative of that person), we will not be able to fulfill the request. Under the CPRA, we do not require identity verification beyond requesting the necessary information to handle your request, when you exercise your Right to Opt-Out of Sharing, Right to Opt-Out of Sale, or Right to Limit the Use and Disclosure of Sensitive Personal Information.
+Agents
+If you are submitting a request on behalf of a user as an authorized representative, please send your request to
+privacy@solvely.ai
+as outlined below. This applies if you are requesting on behalf of your minor child. We will follow up with a request for a signed authorization from the individual whose information is the subject of the request, granting you permission to act on their behalf. This authorization must include both your full legal name and the full legal name of the individual who is the subject of the request, clearly stating the permission given. Alternatively, you may, though it is not required, provide a copy of a power of attorney under Probate Code sections 4000-4465. Please also state the nature of your request in your email. Both the consumer's identity and your own will need to be verified for us to process your request. We may also request direct confirmation from the consumer that they authorized you to make the request. If we do not receive sufficient proof of your authorization, we may decline the request.
+Right to Know
+As a California Consumer, you have the right to access information about what we have collected about you (including both the categories and the specific details of that information).
+To exercise your Right to Know, please submit your request to
+privacy@solvely.ai .
+To obtain specific pieces of information, you will need to provide a signed declaration under penalty of perjury confirming that you are the consumer whose Personal Information is being requested.
+Right to Delete
+California Consumers are entitled to request the deletion of any information we have collected about them. If you are a California Consumer and wish to exercise your Right to Delete, please submit your request to
+privacy@solvely.ai .
+Please be aware that as part of our verification process, we may follow up with you to confirm your request to delete your information.
+Right to Correct Inaccurate Information
+California Consumers have the right to request corrections to any inaccurate information we maintain about them. If you are a California Consumer and wish to exercise your Right to Correct, please submit your request to
+privacy@solvely.ai .
+Right to Limit the Use and Disclosure of Sensitive Personal Information
+As outlined in the chart below, we may collect information classified as Sensitive Personal Information under California law such as race and gender identity. According to the CPRA Regulations, businesses are required to offer the Right to Limit the Use and Disclosure of Sensitive Personal Information only when such use does not fall within list of exceptions specified in Sec. 7027(m). Currently, Solvely.ai's use and disclosure of Sensitive Personal Information falls within these exemptions and we do not offer an opt-out for this category of information at this time.
+Do Not Sell My Personal Information or Share for Cross Contextual Behavioral Advertising
+California Consumers are entitled to opt-out of the sale of their Personal Information or Sensitive Personal Information. Solvely.ai does not engage in the sale of Personal Information for monetary compensation.
+Additionally, California Consumers have the right to opt-out of the sharing of their Personal Information or Sensitive Personal Information with third parties for cross-context behavioral advertising (i.e., targeted advertising), regardless of whether or not such sharing involves monetary or other forms of consideration. If you are a California Consumer and wish to exercise your Right to Opt-Out of "Sales" or "Sharing" for Cross Contextual Behavioral Advertising, please submit your request to
+privacy@solvely.ai .
+Cookie-Based Opt-Outs for Do Not Sell My Personal Information or Share for Cross Contextual Behavioral Advertising
+Solvely.ai participates in online advertising and analytics practices that may be classified as "sales" or "sharing" of Personal Information for cross-context behavioral advertising under the CCPA and CPRA. To opt out of cookies from third parties that might be considered \"sales\" or "sharing" according to these regulations, please send your request to
+privacy@solvely.ai .
+Additionally, the Digital Advertising Alliance provides tools for California consumers to request an opt-out of the sale of their personal information by participating companies under the CCPA and CPRA. For more details and to make your request, please visit https://www.privacyrights.info/.
+Data Retention
+We will keep all categories of personal information outlined in this California Privacy Notice for as long as it is reasonably required for the purposes specified herein. This includes the duration need to: deliver our Services to you; fulfill and respect your choices and rights; meet our contractual obligations; enforce our Terms of Use for the Services; and adhere to legal and regulatory obligations. Unless otherwise specified in our Services, we will retain your personal information for as long as you maintain an account with us, use our Services, or continue to engage with us.
+Notice of Financial Incentive
+In accordance with California regulations, some of our programs that offer benefits to consumers may qualify as financial incentive programs. We collect personal information from you, such as your contact details (e.g., phone number or email address) to administer these benefits, enhance our service to you, and process your requests related to the program. To participate in these programs, you may need to provide specific information and agree to the terms associated with the program. For detailed information about the program and its requirements, please review the program terms. Participation in these programs is voluntary, and you can opt out at any time. If a program is deemed financial due to its relation to the collection, deletion or retention of consumer personal information, the value of the program is reasonably aligned with the overall value we derive from the personal information provided by participants, minus the associated costs and expenses.
+Right to Non-Discrimination for the Exercise of a Consumer's Privacy Rights
+California consumers are entitled to exercise their rights under the CCPA and CPRA without facing discriminatory treatment. We assure you that exercising these rights will not result in any adverse actions or discrimination against you.
+PERSONAL INFORMATION WE COLLECT
+The types of Personal Information we collect from you depend on how you use our Services or interact with us. Additionally, we may gather and use other types of information not specified here. Therefore, the information we collect may not encompass all the types listed below. Additionally, we may gather and use other types of information not specified here but will do so only after notifying you and obtaining your consent, as is required by the CCPA and CPRA.
+Category of Personal Information Collected: Identifiers (such as name, address, telephone number, email address, IP address, or account name)
+a.
+Categories of Sources from which the Information was Collected. We may gather this type of information from:
+i. You
+ii. Affiliated Companies
+iii. Third parties we partner with to provide services
+iv. Third party financial assistance partners
+v. Cookies and Tracking Technologies
+vi. Third party social media companies
+vii. Third party business partners
+b.
+Business or Commercial Purpose(s) for which Information is Collected. We may utilize this type of information to:
+i. Provide the Services and allow you to participate in features we offer
+ii. Recognize you across devices
+iii. Identify your preferences and tailor content recommendations and offers we show to you
+iv. Process your transactions
+v. Verify your identity
+vi. Investigate and prevent fraud and other illegal activities or activities that violate our policies
+vii. Improve our Services and marketing efforts
+viii. Contact you regarding your use of the Services, and at our discretion, changes to our policies
+ix. Facilitate your job search, process your employment application, and prepare related governmental and internal statistics reports
+x. Comply with the law and protect the safety, rights, property, or security of Solvely.ai, the Services, consumers, and the general public
+xi. For internal business, research and product development purposes
+xii. For other purposes disclosed to you at the time you provide your information or otherwise with your consent
+c.
+Categories of Third Parties to whom this type of Personal Information is Disclosed for a Business Purpose. We may disclose this type of information to:
+i. Instructors
+ii. Other Users
+iii. Affiliated Companies
+iv. Service Providers
+v. Third parties we partner with to provide services
+vi. Third party financial assistance partners
+vii. Third parties whose features are integrated into the Services, such as social media companies
+viii. Third parties with whom we have joint marketing and similar arrangements
+ix. Third parties we partner with for contests, sweepstakes, or promotions
+x. Third party advertising and analytics companies
+xi. Third parties who acquire your information after a merger, acquisition or ownership transition
+xii. Other third parties (including government agencies) as required by law or in connection with court proceedings (such as pursuant to subpoenas or court orders)
+xiii. Third parties when you agree to or direct that we share your information with them
+d.
+Categories of Third Parties to Whom this Type of Personal Information is Sold or Shared for Cross Contextual Behavioral Advertising
+Third party advertising, analytics, and other marketing business partners may have access to this data through cookies and similar technologies, and this may be considered a "sale" or "share" under the CCPA and CPRA under certain circumstances.
+Category of Personal Information Collected: Any categories of Personal Information described in subdivision (v) of Section 1798.140 (such as name, address, or telephone number)
+a.
+Categories of Sources from which the Information was Collected. We may collect this type of information from:
+i. You
+ii. Affiliated Companies
+iii. Third parties we partner with to provide services
+iv. Third party financial assistance partners
+v. Cookies and Tracking Technologies
+vi. Third party social media companies
+vii. Third party business partners
+b.
+Business or Commercial Purpose(s) for which Information is Collected. We may use this type of information to:
+i. Provide the Services and allow you to participate in features we provide
+ii. Recognize you across devices
+iii. Identify your preferences and tailor content recommendations and offers we show to you
+iv. Process your transactions
+v. Verify your identity
+vi. Investigate and prevent fraud and other illegal activities or activities that violate our policies
+vii. Improve our Services and marketing efforts
+viii. Contact you regarding your use of the Services, and in our discretion, changes to our policies
+ix. Facilitate your job search, process your employment application, and prepare related governmental and internal statistics reports
+x. Comply with the law and protect the safety, rights, property, or security of Solvely.ai, the Services, consumers, and the general public
+xi. For internal business, research and product development purposes
+xii. For other purposes disclosed to you at the time you provide your information or with your consent
+c.
+Categories of Third Parties to whom this type of Personal Information is Disclosed for a Business Purpose. We may disclose this type of information to:
+i. Instructors
+ii. Other Users
+iii. Affiliated Companies
+iv. Service Providers
+v. Third parties we partner with to provide services
+vi. Third party financial assistance partners
+vii. Third parties whose features are integrated into the Services, such as social media companies
+viii. Third parties whom we have joint marketing and similar arrangements with
+ix. Third parties we partner with for contests, sweepstakes, or promotions
+x. Third party advertising and analytics companies
+xi. Third parties who acquire your information after a merger, acquisition or ownership transition
+xii. Other third parties (including government agencies) as required by law or in connection with court proceedings (such as pursuant to subpoenas or court orders)
+xiii. Third parties when you agree to or direct that we share your information with them
+d.
+Categories of Third Parties to Whom this Type of Personal Information is Sold or Shared for Cross Contextual Behavioral Advertising
+Third party advertising, analytics, and other marketing business partners may have access to this data through cookies and similar technologies, and this may be considered a "sale" or "share" under the CCPA and CPRA under certain circumstances.
+Category of Personal Information Collected: Protected classification characteristics (such as race, age, gender and education level)
+a.
+Categories of Sources from which the Information was Collected. We may collect this type of information from:
+i. You
+b.
+Business or Commercial Purpose(s) for which Information is Collected. We may use this type of information to:
+i. Provide the Services and allow you to participate in features we provide
+ii. Identify your preferences and tailor content recommendations and offers we display to you
+iii. Investigate and prevent fraud and other illegal activities or activities that violate our policies
+iv. Improve our Services and marketing efforts
+v. Facilitate your job search, process your employment application, and prepare related governmental and internal statistics reports
+vi. Comply with the law and protect the safety, rights, property, or security of Solvely.ai, the Services, consumers, and the general public
+vii. For internal business, research and product development purposes
+viii. For other purposes disclosed to you at the time you provide your information or otherwise with your consent
+c.
+Categories of Third Parties to whom this type of Personal Information is Disclosed for a Business Purpose. We may disclose this type of information to:
+i. Instructors
+ii. Other users
+iii. Third party service providers
+iv. Affiliated Companies
+v. Third parties whose features are integrated with the Services, such as social media companies
+vi. Third party advertising and analytics companies
+vii. Third parties with whom we have joint marketing and similar arrangements
+viii. Law enforcement, government entities, or others if required by law or in connection with court proceedings (such as pursuant to subpoenas or court orders)
+ix. Third parties who acquire your information after a merger, acquisition, or other ownership transition;
+x. Third parties when you agree to or direct that we share your information with them
+d.
+Categories of Third Parties to Whom this Type of Personal Information is Sold or Shared for Cross Contextual Behavioral Advertising
+Third party advertising, analytics, and other marketing business partners may have access to this data through cookies and similar technologies, and this may be considered a "sale" or "share" under the CCPA and CPRA under certain circumstances.
+Category of Personal Information Collected: Commercial information (such as what you purchase or consider purchasing and other requests you make)
+a.
+Categories of Sources from which the Information was Collected. We may collect this type of information from:
+i. You
+ii. Affiliated Companies
+iii. Third parties we partner with to provide services
+iv. Third party financial assistance partners
+v. Cookies and Tracking Technologies
+vi. Third party social media companies
+vii. Third party business partners
+b.
+Business or Commercial Purpose(s) for which Information is Collected. We may use this type of information to:
+i. Provide the Services and allow you to participate in features we offer
+ii. Identify your preferences and tailor content recommendations and offers we display to you
+iii. Process your transactions
+iv. Verify your identity
+v. Investigate and prevent fraud and other illegal activities or activities that violate our policies
+vi. Improve our Services and marketing endeavors
+vii. Comply with the law and protecting the safety, rights, property, or security of Solvely.ai, the Services, consumers, and the general public
+viii. For internal business, research and product development purposes
+ix. For other purposes disclosed to you at the time you provide your information or otherwise with your consent
+c.
+Categories of Third Parties to whom this type of Personal Information is Disclosed for a Business Purpose. We may disclose this type of information to:
+i. Affiliated Companies
+ii. Service Providers
+iii. Third parties we partner with to offer services
+iv. Third parties whose features are integrated into the Services, such as social media companies
+v. Third parties with whom we have joint marketing and similar arrangements
+vi. Third party advertising and analytics companies
+vii. Third parties who may acquire your information as a result of a merger, acquisition or otherwise ownership transition
+viii. Other third parties (including government agencies) as required by law or in connection with court proceedings (such as pursuant to subpoenas or court orders)
+ix. Third parties when you agree to or direct that we share your information with them
+d.
+Categories of Third Parties to Whom this Type of Personal Information is Sold or Shared for Cross Contextual Behavioral Advertising
+Third party advertising, analytics, and other marketing business partners may have access to this data through cookies and similar technologies, and this may be considered a "sale" or "share" under the CCPA and CPRA under certain circumstances
+Category of Personal Information Collected: Internet or other electronic network activity information (such as browsing history, buttons you click, and pages you visit on our Services)
+a.
+Categories of Sources from which the Information was Collected. We may collect this type of information from:
+i. You
+ii. Cookies and Tracking Technologies
+iii. Third party social media companies
+b.
+Business or Commercial Purpose(s) for which Information is Collected. We may use this type of information to:
+i. Provide the Services and allow you to participate in features we offer
+ii. Recognize you across devices
+iii. Identify your preferences and tailor content recommendations and offers we display to you
+iv. Process your transactions
+v. Provide information on products/services we think you may be interested in
+vi. Verify your identity
+vii. Investigate and prevent fraud and other illegal activities or activities that violate our policies
+viii. Improve our Services and marketing endeavors
+ix. Contact you regarding your use of the services and, in our discretion, changes to our policies
+x. Comply with the law and protect the safety, rights, property, or security of Solvely.ai, the Services, consumers, and the general public
+xi. For internal business, research and product development purposes
+xii. For other purposes disclosed to you at the time you provide your information or otherwise with your consent
+c.
+Categories of Third Parties to whom this type of Personal Information is Disclosed for a Business Purpose. We may disclose this type of information to:
+i. Affiliated Companies
+ii. Service Providers
+iii. Third parties whose features are integrated into the Services, such as social media companies
+iv. Third parties with whom we have joint marketing and similar arrangements
+v. Third party advertising and analytics companies
+vi. Third parties who may acquire your information as a result of a merger, acquisition or otherwise ownership transition
+vii. Other third parties (including government agencies) as required by law or in connection with court proceedings (such as pursuant to subpoenas or court orders)
+viii. Third parties when you agree to or direct that we share your information with them
+d.
+Categories of Third Parties to Whom this Type of Personal Information is Sold or Shared for Cross Contextual Behavioral Advertising
+Third party advertising, analytics, and other marketing business partners may have access to this data through cookies and similar technologies, and this may be considered a "sale" or "share" under the CCPA and CPRA under certain circumstances.
+Category of Personal Information Collected: Sensory data (such as audio, video, or pictorial information)
+a. Categories of Sources from which the Information was Collected. We may collect this type of information from:
+i. You
+ii. Service providers
+b .
+Business or Commercial Purpose(s) for which Information is Collected. We may use this type of information to:
+i. Provide the Services and allow you to participate in features we offer
+ii. Verify your identity
+iii. Facilitate your job search, process your employment application, and prepare related governmental and internal statistics reports
+iv. Investigate and prevent fraud and other illegal activities or activities that violate our policies
+v. Comply with the law and protect the safety, rights, property, or security of Solvely.ai, the Services, consumers, and the general public
+vi. For internal business, research and product development purposes
+vii. For other purposes disclosed to you at the time you provide your information or otherwise with your consent
+c. Categories of Third Parties to whom this type of Personal Information is Disclosed for a Business Purpose. We may disclose this type of information to:
+i. Instructors
+ii. Other users
+iii. Affiliated Companies
+iv. Service Providers
+v. Third parties who may acquire your information as a result of a merger, acquisition or other ownership transition
+vi. Other third parties (including government agencies) as required by law or in connection with court proceedings
+vii. Third parties when you agree to or direct that we share your information with them
+d. Categories of Third Parties to Whom this Type of Personal Information is Sold or Shared for Cross Contextual Behavioral Advertising
+We do not "sell" or "share" this information with third parties for cross-context behavioral advertising (i.e. targeted advertising).
+Category of Personal Information Collected: Professional or employment-related information
+a.
+Categories of Sources from which the Information was Collected. We may collect this type of information from:
+i. You
+ii. Third party social media companies
+iii. Service providers
+b.
+Business or Commercial Purpose(s) for which Information is Collected. We may use this type of information to:
+i. Provide the Services and allow you to participate in features we offer
+ii. Identify your preferences and tailor content recommendations and offers we display to you
+iii. Verify your identity
+iv. Investigate and prevent fraud and other illegal activities or activities that violate our policies
+v. Improve our Services and marketing endeavors
+vi. Contact you regarding your use of the Services, and in our discretion, changes to our policies
+vii. Facilitate your job search, process your employment application, and prepare related governmental and internal statistics reports
+viii. Comply with the law and protect the safety, rights, property, or security of Solvely.ai, the Services, consumers, and the general public
+ix. For internal business, research and product development purposes
+x. For other purposes disclosed to you at the time you provide your information or otherwise with your consent
+c.
+Categories of Third Parties to whom this type of Personal Information is Disclosed for a Business Purpose. We may disclose this type of information to:
+i. Instructors
+ii. Other Users
+iii. Affiliated Companies
+iv. Service Providers
+v. Third parties we partner with to offer services
+vi. Third party financial assistance partners
+vii. Third parties whose features are integrated into the Services, such as social media companies
+viii. Third parties we partner with for contests, sweepstakes, or promotions
+ix. Third party advertising and analytics companies
+x. Third parties who may acquire your information as a result of a merger, acquisition or otherwise ownership transition
+xi. Other third parties (including government agencies) as required by law or in connection with court proceedings (such as pursuant to subpoenas or court orders)
+xii. Third parties when you agree to or direct that we share your information with them
+d.
+Categories of Third Parties to Whom this Type of Personal Information is Sold or Shared for Cross Contextual Behavioral Advertising
+We do not "sell" or "share" this information with third parties for cross-context behavioral advertising (i.e. targeted advertising).
+Category of Personal Information Collected: Education Information
+a.
+Categories of Sources from which the Information was Collected. We may collect this type of information from:
+i. You
+b.
+Business or Commercial Purpose(s) for which Information is Collected. We may use this type of information to:
+i. Provide the Services and allow you to participate in features we offer
+ii. Identify your preferences and tailor content recommendations and offers we display to you
+iii. Facilitate your job search, process your employment application, and prepare related governmental and internal statistics reports
+iv. Investigate and prevent fraud and other illegal activities or activities that violate our policies
+v. Improve our Services and marketing endeavors
+vi. Comply with the law and protecting the safety, rights, property, or security of Solvely.ai, the Services, consumers, and the general public
+vii. For internal business, research and product development purposes
+viii. For other purposes disclosed to you at the time you provide your information or otherwise with your consent
+c.
+Categories of Third Parties to whom this type of Personal Information is Disclosed for a Business Purpose. We may disclose this type of information to:
+i. Instructors
+ii. Other Users
+iii. Affiliated Companies
+iv. Service Providers
+v. Third parties may acquire your information as a result of a merger, acquisition, or other ownership transition
+vi. Other third parties (including government agencies) as required by law or in connection with court proceedings
+vii. Third parties when you agree to or direct that we share your information with them
+d.
+Categories of Third Parties to Whom this Type of Personal Information is Sold or Shared for Cross-Contextual Behavioral Advertising
+We do not "sell" or "share" this information with third parties for cross-context behavioral advertising (i.e. targeted advertising).
+Category of Personal Information Collected: Inferences drawn from other personal information (such as preferences, characteristics, predispositions, and behaviors)
+a.
+Categories of Sources from which the Information was Collected. We may collect this type of information from:
+i. You
+ii. Tracking Technologies
+iii. Third party social media companies
+iv. Third party business partners
+b.
+Business or Commercial Purpose(s) for which Information is Collected. We may use this type of information to:
+i. Provide the Services and allow you to participate in features we offer
+ii. Identify your preferences and tailor content recommendations and offers we display to you
+iii. Investigate and prevent fraud and other illegal activities or activities that violate our policies
+iv. Improve our Services and marketing endeavors
+v. Comply with the law and protecting the safety, rights, property, or security of Solvely.ai, the Services, consumers, and the general public
+vi. For internal business, research and product development purposes
+vii. For other purposes disclosed to you at the time you provide your information or otherwise with your consent
+c.
+Categories of Third Parties to whom this type of Personal Information is Disclosed for a Business Purpose. We may disclose this type of information to:
+i. Affiliated Companies
+ii. Service Providers
+iii. Third-party advertising and analytics companies
+iv. Third parties whose features are integrated into the Services, such as social media companies
+v. Third parties with whom we have joint marketing and similar arrangements
+vi. Third parties who may acquire your information because of a merger, acquisition or other ownership transition
+vii. Other third parties (including government agencies) as required by law or in connection with court proceedings
+viii. Third parties when you agree to or direct that we share your information with them
+d.
+Categories of Third Parties to Whom this Type of Personal Information is Sold or Shared for Cross Contextual Behavioral Advertising
+Third party advertising, analytics, and other marketing business partners may have access to this data through cookies and similar technologies, and this may be considered a "sale" or "share" under the CCPA and CPRA under certain circumstances
+QUESTIONS AND CONTACT INFORMATION
+Aignite Inc.
+privacy@Solvely.ai
+Other California Rights
+California residents have the right to request information from any third parties to whom we have disclosed certain categories of personal information for their direct marketing purposes over the past year. Alternatively, companies like Solvely.ai can comply by stating in their privacy policy that they offer consumers the option to opt-out or opt-in regarding the sharing of personal information with third parties for direct marketing purposes, along with details on how to exercise this choice. Solvely.ai will provide you with this choice before sharing your personal information with third parties for their direct marketing. If you do not opt-in or choose to opt-out, we will not share your personal information for those purposes.
+For more information about our compliance with this law, California customers may contact us by e-mailing privacy@solvely.ai. Please include "Your California Privacy Rights" in the subject line of your email. Ensure your request includes your name, street address, city, state, and ZIP code. We are not liable for notices that are not properly labeled or sent, or that lack complete information.
+Welcome back to
+Solvely
+Study smarter with
+Solvely
+Sign up
+with Google
+Sign up
+with Apple
+Sign up
+with Facebook
+or
+sign up
+with email
+Next
+I wish to receive updates about Solvely.ai
+Don't have an account?
+Sign up
+Already have an account?
+Log in
+How to scan QR code?
+Open Solvely mobile app
+Go to "Me" page and tap " "
+" "
+at the top right
+Scan the QR code on the right
+Return to log in with other methods
+This is definitely a
+more reliable & effective way
+to use than ChatGPT. Honestly, it's the only app I trust to give me correct answers, not dumb AI.
+@Masterchief117$
+Student
+I absolutely love
+Solvely!!!
+I've never had an app explain the steps in such detail that I understood. It's exactly the way my professor is teaching it, and I might actually pass pre-calc!!
+@Slimshadddy
+Student
+This app is actually very helpful for people who struggling with math and their grades! It not only gives the answers but also
+explains
+how you got the answer, which will totally help with
+all types of math
+you're struggling with!
+@Cucaracha20
+Student
+I was really stuck trying to help my 6th-grade daughter with algebra word problems. This app showed a
+step-by-step
+solution so I could guide my kid without just giving them the answer.
+@cheight
+Parent
+I missed a whole week of school and started a new subject. Using this app, I got help by getting answers and learning. It explains everything to you.
+10/10, highly recommend!
+@Jordan918812727733
+Student
+Have a mobile account?
+Scan to sync data with your mobile account
+Log in with QR code
+Scan QR code
+Loading...
+Account synced
+You've logged in with the mobile account
+Check your Email
+To confirm your email address,
+tap the magic link in the email we sent to
+Download
+iOS
+Android
+Chrome Extension
+Edge Extension
+About
+About us
+Responsible AI
+Affiliate Program
+Find Us
+Contact us
+© 2025 Solvely
+Terms of Service
+Privacy Policy
+Honor Code

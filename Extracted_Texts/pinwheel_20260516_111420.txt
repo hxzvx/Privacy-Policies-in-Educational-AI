@@ -1,0 +1,374 @@
+Pinwheel Global Privacy Policy
+How it Works
+Shop
+Mobile Phones
+Watch
+Landline Phones
+Accessories
+Apps
+App Library
+PinwheelGPT
+Login
+Cart
+Privacy Policy
+Updated August 29, 2025
+This Privacy Notice for ("we," or "our") describes how and why we might access, collect, store, use, and/or share ("process") your personal information when you use our services ("Services").
+Reading this Privacy Notice will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed.
+Summary of Key Points
+This summary provides key points from our Privacy Notice, but you can find out more details by reading the full policy.
+What personal information do we process?
+We collect personal information provided by parents or guardians when using our services (such as name, email, shipping address, and purchase details). Most personal data is collected through our Caregiver Portal (web and app). We also collect limited data automatically, such as device type and location, through tools like Google Analytics. No personally identifiable personal information is collected from users browsing our website unless a purchase is made.
+Do we process any sensitive personal information?
+No. We do not process sensitive personal information as defined under U.S. law.
+Do we collect information from third parties?
+We may collect information from services such as Facebook (for marketing exclusions and purchase tracking), Google, and Klaviyo, primarily related to marketing analytics and order confirmations.
+How do we process your information?
+We use your information to deliver our services, support your account, process transactions, communicate with you, ensure compliance, improve our offerings, and for limited marketing purposes.
+With whom do we share information?
+Specific situations and third parties.
+What are your rights?
+U.S. residents may have rights under applicable state privacy laws, including accessing, correcting, or deleting their data, and limiting the use of personal data in marketing.
+How do you exercise your rights?
+You can submit a data access or deletion request through
+this link
+or contact us directly through email:
+privacy@pinwheel.com .
+Table of Contents
+What Information Do We Collect?
+How Do We Process Your Information?
+When and With Whom Do We Share Your Personal Information?
+Do We Use Cookies and Other Tracking Technologies?
+How Do We Handle Your Social Logins?
+Is Your Information Transferred Internationally?
+How Long Do We Keep Your Information?
+Children’s Privacy
+What Are Your Privacy Rights?
+Controls for Do-Not-Track Features
+Updates to This Notice
+How Can You Contact Us About This Notice?
+How Can You Review, Update, or Delete the Data We Collect From You?
+1. What Information Do We Collect? We collect both personal and non-personal information to deliver our services effectively. The data we collect falls into two main categories
+: 1.1 Information We Collect from Caregivers We collect personal information from the caregiver (typically a parent or legal guardian) when they register for or use our services, including:
+Name, email address, shipping address, and payment details at the time of purchase
+Information entered into the caregiver portal (via web or app), such as the child’s name and birthdate, call/text permissions, and device schedule settings
+Events related to purchase and account use, such as order details and subscription activity
+Th is information is used to:
+Provide and maintain our services
+Process transactions
+Communicate with you about your account
+Send transactional and (with consent) marketing communications
+Improve the usability and performance of our services
+We do
+not
+use data collected within the Caregiver Portal app for marketing purposes.
+1.2 Information We Collect from Children Using a Pinwheel Device When a child uses a Pinwheel device, we automatically collect certain usage information to enable core functionality, safety features, and caregiver oversight. This may include:
+Incoming and outgoing call history
+Text messages and images sent or received
+Apps downloaded and time spent in each app
+Queries entered into PinwheelGPT
+This data is collected
+solely
+to:
+Provide and improve the Pinwheel service
+Maintain device functionality
+Ensure child safety
+Enable features chosen by the caregiver
+We do not use children’s data for advertising or marketing purposes.
+1.3 Automatically Collected Website & Portal Information When you use our website or caregiver portal, we automatically collect non-identifiable information through tools like Google Analytics. This may include:
+IP address
+Browser type
+Device type
+City, state, and country
+Pages visited and actions taken
+App usage
+Purpose of Collection
+This information is used for analytics, troubleshooting, and improving our services. No personally identifiable information (PII) is collected through Google Analytics or similar marketing tools on our website.
+2. When and With Whom Do We Share Your Personal Information?
+We may share personal information with third parties in the following circumstances:
+Business Transfers
+In the event of a merger, acquisition, or sale of assets, your personal information may be transferred to the acquiring entity.
+Partners and Service Providers
+We may share information with third-party partners who help us deliver services, promotions, or technical infrastructure. These parties are contractually bound to use the data only as necessary and follow strict privacy practices.
+Marketing and Advertising Platforms
+We may share certain caregiver information with advertising platforms for analytics, retargeting, and campaign optimization:
+Meta (Facebook):
+Purchaser email addresses and order information (server-side), plus limited behavioral data (client-side pixel).
+Google:
+Name, email address, phone number, shipping address (on order completion) and behavioral events.
+Klaviyo:
+Email addresses and shopping activity (for opted-in subscribers).
+We do not build user profiles for behavioral tracking or sell personal information for monetary gain.
+Redirects and Analytics
+We may redirect users to a thank-you page upon purchase, which may include a transaction ID but no personally identifiable information.
+Legal Requirements
+We may disclose personal information if required by law, regulation, legal process, or enforceable governmental request, or to protect legal rights, prevent fraud, or ensure safety.
+3. Security and Safeguards We use industry-standard technical and organizational measures to protect all personal data we process. These measures include HTTPS encryption, tokenization, role-based access controls, and regular security audits.
+All personal data — including information used for marketing —
+is processed securely and in full compliance with applicable privacy regulations , such as the GDPR, COPPA, and other relevant laws.
+We continuously monitor, review, and enhance our security protocols to address evolving threats and maintain the highest standards of data protection.
+4. Do We Use Cookies and Tracking Technologies Yes, we use cookies and similar tracking technologies for website performance, analytics, online behavior analysis, and ad personalization. These technologies help us understand how users interact with our site and improve your experience.
+Types of Cookies and Technologies We Use
+Performance & Analytics : We use cookies and backend integrations to monitor site activity such as product views, cart modifications, checkout starts, and order completions. These events are shared with services including Google, Facebook, and Klaviyo.
+Marketing & Advertising :
+We use cookies and similar tracking technologies to help us deliver relevant marketing and advertising. This includes:
+Tracking events such as starting checkout, adding items to the cart, and viewing products.
+Using this event data to measure ad performance and personalize content.
+Sharing certain information, such as customer email addresses, with advertising platforms (e.g., Meta) to enable ad retargeting and personalization. This data is transmitted securely from our backend.
+Y ou can manage your cookie preferences at any time through your browser settings or our cookie consent tools.
+Personal Information Shared via Tracking
+Facebook : Email address at point of purchase
+Google : Name, address, phone number, and email upon order completion
+Klaviyo : Email address, purchase and shipping information and cart behavior for campaign purposes
+Cookie Banner & Controls Our website uses a cookie consent banner that is active for all users. You can manage or withdraw your cookie preferences at any time through this banner or via your browser settings.
+Please note: We continually evaluate and improve our data privacy and cookie practices. For a full list of cookies and third-party technologies used, see our
+Cookie Policy .
+5. Is Your Information Transferred Internationally? No. We do not transfer personal information internationally.
+All personal data we collect from users in the United States is stored on secure servers located within the U.S., primarily through Amazon Web Services (AWS). We do not currently store or transfer data outside of the U.S.
+6. How Long Do We Keep Your Information? We retain personal information only for as long as necessary to fulfill the purposes for which it was collected, including to provide services, meet legal or regulatory requirements, resolve disputes, and enforce our agreements.
+Retention periods vary based on the type of data:
+Most app usage and child-related activity data
+(e.g., app usage, child call/text/location history, child’s routine completion, child’s happiness ratings) is retained for
+12 months .
+Survey data and CGP usage
+are retained for
+14 months .
+Web traffic and marketing analytics data
+(e.g., Google Analytics, Hotjar) is retained for
+12 to 14 months .
+Purchase and financial data
+(e.g., Stripe, Meta, Impact, Klaviyo) is retained
+perpetually
+or
+indefinitely , as required for financial reporting.
+Caregiver and child account information , including messages and prompt history, is retained for the
+lifetime of the customer plus 60 days
+after termination of service.
+Crash reports
+are retained for
+90 days .
+Notification keys and Google Play app installs
+are retained for the
+lifetime of the customer plus 60 days .
+Affiliate and clickstream data
+is retained for
+12 months to perpetuity , depending on the tool used.
+We regularly review our data retention practices and securely delete or anonymize data that is no longer needed.
+7. How Do We Keep Your Information Safe?  We implement technical and organizational measures to protect your information:
+HTTPS encryption
+Role-based access controls
+Secure storage with AWS
+No marketing data collection in the app
+Vendor DPAs enforced where applicable
+8. Children’s Privacy Pinwheel is designed to support children and their families in developing healthy digital habits. We are committed to protecting children’s privacy and complying with applicable U.S. laws, specifically the
+Children’s Online Privacy Protection Act (COPPA) .
+Parental Consent We do not knowingly collect personal information from children under 13 years old in the United States without verifiable parental consent. Before a child can use a Pinwheel device or interact with Pinwheel GPT, a parent or caregiver must set up and manage the account via the Caregiver Portal (available through web and app versions).
+The information we collect is provided by the parent or legal guardian and used solely to deliver and improve the service. The parent is contracting with us for this service and may cancel at any time. Upon cancellation, personal information is retained for a limited period in accordance with our data retention policy (typically the customer’s lifetime plus 60 days, or as otherwise specified).
+A parent or legal guardian must set up and manage a child’s account before they can use a Pinwheel device or any related services, including
+Pinwheel GPT .
+Data Collected from Children Through parent-managed accounts, we may collect the following information associated with the child:
+First name or nickname
+Contact safelist (approved names/numbers)
+Call and message metadata
+Text messages and images
+App usage data
+GPS location data
+AI conversation history via Pinwheel GPT
+Routine completion and sentiment data
+T his data is used solely to deliver parental controls, enable core device functionality, provide usage summaries, and offer product feedback to caregivers. It is never used to profile or market to children.
+9. What Are Your Privacy Rights? As a parent or legal guardian, you have the right to:
+Access and review your child’s personal data
+Request deletion of data
+Withdraw consent at any time
+Disable AI features through the caregiver portal
+To exercise any of these rights or for privacy-related questions, please contact us at
+privacy@pinwheel.com . To request deletion of your CGP account, please
+fill out this deletion request form .
+10. Controls for Do-Not-Track Features We do not currently respond to “Do Not Track” (DNT) browser signals because no common industry standard has been adopted.
+However, we do honor
+Global Privacy Control (GPC)
+signals in applicable regions.
+For users in
+Australia, the United Kingdom, and Canada , GPC is currently enabled on our  website.
+Once a cookie consent banner is implemented for
+United States
+users, GPC functionality will also be enabled there.
+Together with our cookie banner and consent tools, GPC signals give you the ability to control how your data is collected and used for marketing and advertising.
+11. State-Specific Privacy Rights (United States) Residents of certain U.S. states have specific rights under their local privacy laws. This section outlines those rights and how you can exercise them.
+California (CCPA/CPRA) If you are a California resident, you have the right to:
+Know
+what categories and specific pieces of personal information we collect about you.
+Access
+a copy of your personal data.
+Correct
+inaccurate personal information we hold about you.
+Delete
+your personal information, subject to certain exceptions.
+Opt-out
+of the sale or sharing of your personal information.
+Limit the use
+of sensitive personal information.
+Not be discriminated against
+for exercising any of your privacy rights.
+To exercise these rights, you may submit a request using
+this link
+or call us at 888-903-7977.
+If you use an authorized agent to submit a request on your behalf, we may require verification of your identity and written permission from you.
+Notice at Collection:
+We collect personal information as described in Sections 1-3. This includes identifiers (name, email), purchase records, and technical usage data. We do not sell personal data, but limited data is shared with third-party ad platforms  for advertising exclusion purposes.
+We do not sell or share your personal information as defined under the California Privacy Rights Act (CPRA). Specifically, we do not disclose your personal information to third parties for cross-context behavioral advertising.
+When you make a purchase, we may send your email address to third-party advertising platforms  solely to exclude you from receiving future ads.This activity does not involve targeted advertising or monetization of your data.
+You may still opt out of any such processing by contacting us to
+privacy@pinwheel.com   or adjusting your privacy preferences.
+Virginia, Colorado, Connecticut, Utah Residents of these states also have the right to:
+Access
+and
+correct
+their personal information.
+Delete
+personal information.
+Opt out
+of the processing of personal data for purposes of targeted advertising, sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects.
+To exercise these rights, please contact us at
+privacy@pinwheel.com.
+We will respond to your request within the timeframe required by your state law.
+Appeal Process If we deny your request, you may have the right to appeal our decision. To do so, please contact us at privacy@pinwheel.com with the subject line “Privacy Request Appeal.”
+12. Region-Specific Terms – United Kingdom & European Union If you are located in the United Kingdom or European Union, the following additional terms apply to the processing of your personal information in accordance with the
+UK General Data Protection Regulation (UK GDPR) , the
+EU General Data Protection Regulation (EU GDPR) , and the
+UK Data Protection Act 2018 .
+12.1. Legal Bases for Processing We process your personal data under one or more of the following legal bases:
+Contractual necessity
+– to perform our contract with you, such as providing services, processing payments, and managing your account.
+Consent
+– where you have given us clear permission (e.g., for marketing communications, optional cookies).
+Legal obligation
+– where processing is required by law.
+Legitimate interests
+– where processing is necessary for our legitimate business interests (e.g., fraud prevention, service improvement) and does not override your rights.
+12.2 Your UK/EU Privacy Rights In addition to any rights described in the main Privacy Policy, you have the right to:
+Access
+the personal data we hold about you.
+Rectify
+inaccurate or incomplete data.
+Erase
+your personal data (“right to be forgotten”).
+Restrict
+processing of your data in certain circumstances.
+Object
+to processing based on legitimate interests or for direct marketing.
+Data portability
+– receive a copy of your data in a structured, commonly used format.
+Withdraw consent
+at any time where processing is based on consent.
+Not be subject to automated decision-making
+that significantly affects you.
+To exercise these rights, email
+privacy@pinwheel.com . We will respond within one month.
+12.3. International Data Transfers Your personal data may be transferred and stored outside the UK/EU (including in the United States) on secure servers operated by our trusted service providers, such as Amazon Web Services (AWS). Where such transfers occur, we rely on approved safeguards such as the
+UK International Data Transfer Agreement
+or
+Standard Contractual Clauses with UK Addendum
+to ensure your data remains protected.
+12.4. Cookies and Similar Technologies For UK/EU users, we only place non-essential cookies (e.g., analytics, marketing) with your
+opt-in consent , collected via our cookie banner. You may change your preferences at any time via the banner or your browser settings. For more information, see our
+Cookie Policy .
+12.5. Children’s Privacy in the UK/EU If you are a parent or guardian in the UK/EU, we comply with the UK’s
+Age Appropriate Design Code . This means our services are designed with children’s best interests in mind, including high privacy settings by default, clear parental control features, and no profiling or targeted advertising to children.
+12.6. UK Representative We have appointed a UK Representative to act as our point of contact for data protection matters under the UK GDPR:
+GDPREP.ORG a: 3rd Floor, 86-90 Paul Street, London, EC2A 4NE w:
+www.gdprep.org   e:
+info@gdprep.org   t: +44 (0) 7810 883333
+12.7. Complaints to the ICO You have the right to lodge a complaint with the
+Information Commissioner’s Office (ICO)
+if you believe your data has been processed unlawfully: w: https://ico.org.uk t: +44 303 123 1113
+13. Region-Specific Terms – Canada If you are located in Canada (outside Quebec), the following additional terms apply in accordance with the
+Personal Information Protection and Electronic Documents Act (PIPEDA)
+and applicable provincial laws, including the
+Personal Information Protection Act (PIPA) of Alberta
+and the
+Personal Information Protection Act (PIPA) of British Columbia .
+13.1. Legal Basis and Consent We collect, use, and disclose your personal information with your knowledge and consent, except where otherwise permitted or required by law. By using our Services, you consent to our collection, use, and disclosure of your personal information as described in this Privacy Policy.
+13.2. Your Canadian Privacy Rights
+In addition to the rights described elsewhere in this Policy, Canadian residents (including those in Alberta and British Columbia) have the right to:
+A ccess the personal information we hold about you.
+Request correction of inaccurate, incomplete, or outdated information.
+Withdraw consent for the collection, use, or disclosure of your information (subject to legal or contractual restrictions).
+Complain if you believe your personal information has been mishandled.
+13.3. International Data Transfers
+Your personal information may be transferred outside Canada (including to the United States) to service providers who assist us in delivering our Services. When such transfers occur, we use contractual and technical safeguards to protect your information in a manner consistent with Canadian privacy laws.
+13.4. Children’s Privacy in Canada
+Children’s personal information is considered sensitive under Canadian privacy law. We only collect information about children through accounts set up and managed by a parent or legal guardian.
+We require
+verifiable parental or guardian consent
+before a child can use a Pinwheel device or related services.
+We use children’s data
+solely to provide and improve our services, enable parental controls, and support safety features .
+We do not use children’s data for advertising, profiling, or marketing purposes.
+Parents or guardians in Canada may review their child’s data, request corrections, or withdraw consent at any time by contacting our Privacy Officer at
+privacy@pinwheel.com
+13.5. Privacy Officer
+We have designated a Privacy Officer responsible for overseeing our compliance with Canadian privacy laws. You may contact our Privacy Officer at
+privacy@pinwheel.com
+with any questions, requests, or complaints regarding your personal information.
+14. Region-Specific Terms – Australia If you are located in Australia, the following additional terms apply in accordance with the
+Privacy Act 1988 (Cth)
+and the
+Australian Privacy Principles (APPs) .
+14.1. Collection and Use
+We collect, use, and disclose personal information as outlined in this Privacy Policy. Where required by law, we will seek your consent before collecting sensitive information (e.g., health data, which we generally do not collect).
+14.2. Your Australian Privacy Rights
+In addition to the rights described elsewhere in this Policy, Australian residents have the right to:
+Request access to the personal information we hold about you.
+Request correction of inaccurate, out-of-date, or incomplete information.
+Complain if you believe your personal information has been mishandled or not managed in accordance with the APPs.
+14.3. International Data Transfers
+Your personal information may be transferred outside Australia (including to the United States) to trusted service providers who help us deliver our Services. Where such transfers occur, we take reasonable steps to ensure your information remains protected in accordance with the APPs.
+14.5. Children’s Privacy in Australia
+The privacy of children is protected under the Privacy Act 1988 and the Australian Privacy Principles (APPs).
+We only collect personal information about children through accounts established and managed by a parent or guardian.
+I n
+l i ne with OAIC guidance, we generally assume that children
+under 15 years of age
+are not able to give meaningful consent to the collection and use of their personal information. In these cases, we rely on parental or guardian consent.
+We treat all children’s data as
+sensitive information , and use it only to provide and improve our services, maintain safety features, and enable parental controls.
+We do not use children’s personal information for advertising, profiling, or marketing purposes.
+Parents or guardians in Australia may access, correct, or request deletion of their child’s personal information by contacting our Privacy Officer at
+privacy@pinwheel.com .
+14.6. Privacy Officer
+We have appointed a Privacy Officer responsible for handling privacy questions, complaints, and compliance with Australian privacy law. You may contact our Privacy Officer at
+privacy@pinwheel.com . We will respond to complaints within 30 days.
+15. Updates to This Policy We may update this policy. We'll notify you of material changes. Review regularly.
+16. Contact Information To ask questions or exercise rights, contact us at:
+privacy@pinwheel.com
+17. Reviewing or Deleting Your Data Submit a request to review, update, or delete your data using
+this form.
+Back To Top
+How it works
+Your Healthy Tech Playbook Blog
+Cell Carriers
+About Us
+Partner with us!
+Help Center
+Policies
+Refund Policy
+Terms of Service
+Privacy Policy
+Cookie Policy
+Extended Warranty and Damage Protection
+Phone Recycling
+Follow us
+Facebook
+Twitter
+Instagram
+Linkedin
+Youtube
+Contact Us
+Daily Live Customer Care Hours 7 am - 9 pm Central Time
+Live Chat:
+Tap on the Support icon in the bottom right corner of this page
+Call or Text:
+(888) 903-7977 Email:
+support@pinwheel.com
+Media Resources
+© 2026 - Pinwheel all rights reserved

@@ -1,0 +1,37 @@
+Privacy Policy
+MyEssayFeedback Home Skip to main content About Us Contact Sign In Get Started About Us Contact Sign In Get Started
+***Production***
+Privacy Policy
+Last modified: 8/22/2024
+Information Collection
+We may collect information from or about you in various ways. We may collect your name, email address, or other personal information if you sign up for an account with us. We collect the number times that you interact with the platform and the time that you spend on the platform.
+Information Usage
+We use your information to provide you with the best possible experience on our platform. We may use your personal information to communicate with you, improve our services, or to provide you with personalized recommendations.
+We use the number of times that you interact with the platform and the time that you spend on the platform to help your instructor improve your educational experience. In addition, this information may be shared with your institution at an aggregate level to help evaluate the usefulness of this platform. We do not share this information with anyone externally.
+FERPA
+MyEssayFeedback adheres to
+FERPA
+and considers the privacy of student data to be of the utmost importance. In addition to safeguards at the server and application level, student names and emails are encrypted within our database. In addition, all data is encrypted while in transit.
+While student names and emails are stored in our database, they are not shared with third parties outside of our infrastructure. This information is collected for the purpose of helping instructors organize information within their courses and may also be used to communicate with students if there are any support issues that need resolving.
+Sharing Information with Third Parties
+At MyEssayFeedback, we do not share your personal information with third parties unless we have obtained your consent or as required by law. We do not sell, rent or lease your personal information to anyone. We share the text from user-submitted files or pasted-in text with
+Microsoft's Azure OpenAI Service
+for the purpose of text processing. Neither MyEssayFeedback nor Microsoft use data submitted by MyEssayFeedback to train or improve their models. If interested, you can read their full data usage policy
+here .
+In addition, we use
+AWS
+to securely store our data and we use a
+Google Cloud Function
+to connect MyEssayFeedback with the Azure service.
+Right to Deletion
+At MyEssayFeedback, we respect your right to privacy and understand that you may want to have your personal information deleted from our platform. You have the right to request the deletion of your personal information that we have collected from or about you.
+To request deletion of your personal information, please
+contact us
+with your request. Please note that once we receive your request, we will confirm your identity to protect the privacy of our users. Upon receipt of your request, we will delete all information about you that we have collected, unless otherwise required by law.
+Please be aware that some information may remain in our system even after deletion, such as backup copies, logs, or other records. We will make reasonable efforts to remove your personal information from our platform and ensure that it is not used in any further processing activities. Information for Learning Management Systems
+At MyEssayFeedback, we understand that many of our users utilize Learning Management Systems (LMS) for their academic coursework. If you choose to integrate our platform with your LMS, we will share your email, name, and LMS identifier with the LMS provider to allow for seamless integration. Please note that we only share the minimum amount of information required to facilitate the integration and provide you with a quality user experience. We do not share any additional personal information or sensitive data with the LMS provider.
+Disclaimer
+At MyEssayFeedback, we make every effort to safeguard your personal information and protect your privacy. However, no data transmission over the internet or storage system can be guaranteed to be 100% secure. Therefore, we cannot guarantee the absolute security of your personal information. By using our platform, you acknowledge and accept that there are inherent risks associated with the transmission and storage of personal information. We take all reasonable steps to ensure that your personal information is treated securely and in accordance with applicable data protection laws.
+Changes to This Statement
+MyEssayFeedback reserves the right to modify or update this Privacy Policy at any time without prior notice. We encourage you to review this Privacy Policy periodically to stay informed about our privacy practices. Any changes we make to this Privacy Policy will be posted on this page with an updated date at the top of the page. By continuing to use our platform after any changes to this Privacy Policy, you acknowledge and accept the updated Privacy Policy.
+AI-powered formative feedback that empowers student writers. FERPA Compliant GDPR Ready Product Quick Overview Feedback Library (OER) Reflecting on AI Feedback Critical AI Literacy Resources General Guidelines Accessibility Student Terms Privacy Policy Company Company Info About Us Contact © 2026 MyEssayFeedback, LLC. All rights reserved. Bellingham, WA

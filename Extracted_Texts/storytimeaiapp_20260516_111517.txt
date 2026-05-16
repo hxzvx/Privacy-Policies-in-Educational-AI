@@ -1,0 +1,318 @@
+Storytime AI Privacy Policy - Storytime AI
+Blog
+Shop
+Login
+Request a pilot
+Storytime AI Privacy Policy
+Last Updated: November 20th, 2024
+Effective Date: December 21st, 2024
+Introduction
+This Privacy Policy explains how Storytime AI (“we”, “us”, or “our”) collects, uses, and shares information about you when you use the Storytime AI website or app (“App”) or any related services (collectively, our “Services”). By using our Services, you agree to the collection, use, and disclosure of your information as described in this Privacy Policy.
+This Privacy Policy takes into account the requirements of various privacy laws including the General Data Protection Regulation (GDPR) for users in the European Union and United Kingdom, and the California Consumer Privacy Act (CCPA) for California residents. Additional rights for these users are detailed in specific sections below.
+Information We Collect
+Personal Information
+We collect the following types of information when you use our Services:
+Identity Data :
+Name
+Age
+Gender
+Profile information
+Other information you choose to provide
+Contact Data :
+Email address
+Account Information :
+Login credentials
+Password
+Account preferences
+Financial Data :
+Payment information (processed through third-party payment processors)
+Transaction history
+Subscription details
+Usage Information :
+Stories you create
+Reading preferences
+App interactions
+Feature access
+Session information
+Usage patterns and statistics
+Technical Data :
+IP address
+Browser type
+Device information
+Operating system
+Cookie data
+Log data
+Content Data :
+Stories and content you create
+Saved preferences
+Interaction history
+User-generated content
+Sensitive Information
+We do not actively request or collect sensitive information about you. If at any time we need to collect sensitive information, unless otherwise permitted by law, we will first obtain your consent and only use it as required or authorized by law.
+How We Collect Information
+We collect information in various ways:
+Direct interactions when you:
+Create an account
+Use our Services
+Contact customer support
+Participate in surveys or promotions
+Communicate with us
+Automated technologies, including:
+Cookies
+Web beacons
+Analytics tools
+App usage tracking
+Third parties, including:
+App stores
+Payment processors
+Analytics providers
+Marketing partners
+How We Use Your Information
+We use your information for the following purposes:
+Core Service Delivery
+To provide and maintain our Services
+To process and fulfill your story creation requests
+To manage your account and subscription
+To provide customer support
+To send service-related communications
+To enable features and personalize your experience
+Business Operations
+To improve and optimize our Services
+To analyze usage patterns and trends
+To develop new features and services
+To maintain security of our Services
+To prevent fraud and abuse
+To enforce our Terms of Use
+To comply with legal obligations
+Communication and Marketing
+To send administrative messages
+To provide updates about our Services
+To send promotional content (with your consent)
+To communicate about features and offers
+To respond to your inquiries
+Data Sharing and Disclosure
+Third-Party Service Providers
+We share information with:
+AI Service Providers :
+We use various AI technologies to generate stories and images
+We only share:
+The text inputs you provide for story generation
+Age information to determine appropriate reading level
+No other personal information is shared with AI providers
+Payment Processors :
+Apple App Store and Google Play Store
+Payment information processed directly by platforms
+We receive only transaction confirmations
+App Store Refund and Data Sharing Practices
+As part of processing refund requests through Apple App Store or Google Play Store, we may share:
+Transaction Information :
+Purchase dates and times
+Transaction identifiers
+Purchase history
+Usage Information :
+Content access logs
+Access frequency and duration
+Download status and completion
+Content usage metrics
+Progress tracking data
+Account Information :
+Device information
+Account status
+Eligibility information
+Subscription patterns
+This information is shared solely to:
+Validate refund eligibility
+Prevent fraudulent requests
+Comply with platform policies
+Data sharing is conducted securely and retained only for the necessary duration to process refunds and comply with applicable laws.
+Legal Requirements
+We may disclose information:
+To comply with laws
+To respond to legal requests
+To protect our rights
+To prevent fraud or abuse
+To ensure platform safety
+Business Transfers
+If we are involved in a merger, acquisition, or sale of assets, your information may be transferred as part of that transaction. We will notify you of any change in ownership or uses of your information.
+Data Security
+We implement reasonable security measures to protect your information:
+Industry-standard encryption
+Secure data storage
+Access controls
+Regular security assessments
+Employee training
+However, no method of transmission over the Internet or electronic storage is 100% secure. While we strive to protect your personal information, we cannot guarantee absolute security.
+Children’s Privacy
+The App is intended for users who are at least 13 years old. We do not knowingly collect personal information from children under 13.
+Age Restrictions
+Minimum age requirement: 13 years
+Users under 18 must have parent/guardian permission
+If we discover we have collected information from a child under 13, we will delete it promptly
+Profile Information
+As part of the App’s functionality, we collect:
+First name
+Age
+Default language
+Default narrator voice
+Story input information (i.e., character names, descriptions, setting, plot, theme, keywords, tone)
+This information is:
+Shared with AI providers to create personalized, age-appropriate stories
+Kept confidential
+Protected under our security measures
+Cookies, Analytics, and Similar Technologies
+Types of Technologies Used
+Cookies :
+Session cookies (temporary)
+Persistent cookies (remain until deleted)
+Essential cookies (required for basic functions)
+Analytical/performance cookies
+Other Technologies :
+Web beacons
+Device identifiers
+Analytics tools
+How We Use These Technologies
+We use these technologies to:
+Remember your preferences
+Understand platform performance
+Analyze usage patterns
+Improve user experience
+Customize content
+Maintain security
+Your Cookie Choices
+You can:
+Modify browser settings to decline cookies
+Delete existing cookies
+Opt of analytics tracking
+Note: Declining cookies may affect some App functionality
+International Data Transfers
+Data Location
+Our servers are located in the United States
+Your information may be transferred to, stored, and processed in:
+United States
+Other countries where our service providers operate
+Transfer Safeguards
+We ensure lawful data transfers through:
+Standard contractual clauses
+Appropriate safeguards
+Data protection agreements
+Compliance with applicable laws
+Consent to Transfer
+By using our Services, you consent to:
+International data transfers
+Processing in other countries
+Storage in the United States Understanding that privacy laws may differ from your country
+Your Rights and Choices
+Access and Control
+You have the right to:
+Access  your personal information
+Correct  inaccurate or incomplete data
+Delete  your personal information
+Restrict  processing of your data
+Export  your data (data portability)
+Withdraw  consent for processing
+Object  to certain processing activities
+How to Exercise Your Rights
+Contact us at  termsandprivacy@storytimeai.app  to:
+Submit a request
+Ask questions about your rights
+Get help with exercising your rights
+We will:
+Verify your identity
+Respond within applicable timeframes
+Assist with your request
+Document our response
+Region-Specific Privacy Rights
+California Residents (CCPA)
+California consumers have specific rights regarding their personal information:
+Categories of Information Collected:
+Identifiers (name, email, phone, device IDs)
+Protected classifications (age, gender)
+Commercial information (purchases, subscriptions)
+Internet/network activity (usage data, interactions)
+User-generated content (stories, preferences)
+Inferences from the above data
+Your California Rights:
+Right to Know
+Right to Delete
+Right to Opt-out of Sale
+Right to Non-discrimination
+We do not “sell” personal information as defined by the CCPA. To exercise your rights, contact: termsandprivacy@storytimeaiapp.com
+European Union and UK Users (GDPR)
+If you’re in the EU or UK, you have these additional rights:
+Legal Basis for Processing:
+Contract Performance :
+Account management
+Service delivery
+Payment processing
+Legitimate Interests :
+Service improvement
+Security measures
+Marketing communications
+Analytics
+Legal Obligations :
+Tax compliance
+Legal requirements
+Government requests
+Consent :
+Marketing emails
+Non-essential cookies
+Special features
+Additional GDPR Rights:
+Right to Object to Processing
+Right to Restrict Processing
+Right to Data Portability
+Right to Lodge Complaints
+Right to Refuse Automated Decision-making
+Contact our Data Protection Officer: termsandprivacy@storytimeai.app
+Changes to This Privacy Policy
+Updates
+We may update this policy periodically
+Date at top shows latest version
+Material changes will be notified via:
+App notification
+Email
+Website notice
+Your Choices When We Update
+Review changes when notified
+Continued use means acceptance
+Discontinue use if you disagree
+Contact us with questions
+Data Retention
+We retain your information:
+As long as needed for services
+As required by law
+For legitimate business purposes
+Until you request deletion
+After retention period ends, we will:
+Delete or anonymize data
+Secure any archived data
+Maintain records of deletion
+Contact Information
+General Inquiries
+Email:  termsandprivacy@storytimeai.app
+For Specific Issues:
+Data Access Requests:  termsandprivacy@storytimeai.app
+Privacy Concerns:  termsandprivacy@storytimeai.app
+Technical Support:  support@storytimeai.app
+Security Issues:  support@storytimeai.app
+Response Time
+We strive to respond to all privacy-related inquiries within:
+24 hours for urgent issues
+7 business days for general inquiries
+30 days for formal rights requests
+Before Contacting
+Please check:
+App help section
+Terms of Use
+This Privacy Policy
+Interpretation
+Headlines are for convenience only
+Policy should be read as a whole
+“Include” and similar words mean “including but not limited to”
+If any provision is invalid, others remain in effect
+Privacy policy last updated: November 20th, 2024
+Interested in using Storytime AI for Educators at your school? Request a pilot
+Contact Us      l
+Privacy Policy
+Become an affiliate      l      Terms of Use
+© 2026 Storytime AI. All rights reserved

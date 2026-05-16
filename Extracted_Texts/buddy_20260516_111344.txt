@@ -1,0 +1,394 @@
+Privacy
+Privacy Policy
+We take children’s privacy seriously. For information about how we collect and use children’s personal information, please see our  Children’s Privacy section . By default, we do not collect any personal information from children under 13 without parental consent, though we do temporarily capture the child’s speech for processing and producing the response. The audio is deleted immediately after processing. Please see the details in  the
+Children’s Privacy section .
+Last Modified: Apr 21, 2026
+Prior Privacy Policy available
+here .
+This Privacy Policy applies to our Service, which includes:
+website Buddy.ai, including the content, features, applications, and products we offer on it;
+educational mobile application “Buddy.ai: English for Kids” for iOS and Android, also referred to as the “App”;
+other related websites, applications, and services that link to this Privacy Policy.
+Your use of our Service is subject to this Privacy Policy and our
+Terms of Use . Only parents or legal guardians may create accounts, make payments, or provide consent for children’s use of the Service.
+Please read this Privacy Policy carefully. For questions or to exercise your data protection rights, contact us via email as specified in Section 1 (Contact Details).
+We may update this Privacy Policy to comply with applicable laws. Material changes will be announced through prominent notice or direct notification. Your continued use after changes indicates acceptance of the new Privacy Policy. If required under the law, we will obtain your necessary consent.
+This Privacy Policy does not cover third-party activities outside our control. Please review third-party privacy policies before sharing information with them.
+1. AI BUDDY CONTACT DETAILS
+“We”, “us” or “AI Buddy” in this Privacy Policy refer to AI BUDDY, INC. For the purposes of data protection regulations, including the General Data Protection Regulation 2016/679 (GDPR), AI Buddy is the controller of data received through the Service.
+For privacy-related inquiries or to exercise your or your child’s data rights:
+Email:
+privacy@mybuddy.ai
+(for privacy matters)
+Mail: 707 Continental Cir, #1132, Mountain View, California, 94040, United States
+Phone: +1 (650) 282-1302
+We aim to respond to all privacy-related inquiries within 24 hours.
+Contact for general Services support:
+support@mybuddy.ai
+2. CHILDREN’S PRIVACY
+We take children’s privacy seriously and maintain strict compliance with the Children’s Online Privacy Protection Act (COPPA).
+In this Privacy Policy by a “parent” we mean the child’s parent or legal guardian.
+Core Privacy Protection for Children’s Information
+To protect privacy, the Service uses stronger privacy settings by default prior to receiving verifiable parental consent:
+The Service records the user’s audio input and transcribes it into text for the purpose of generating a response. Before processing, the transcription is filtered to remove personal information. The resulting text is then processed to produce a response, which is played back to the user. The Service does not collect, retain, or store any audio recordings, transcriptions, or responses after processing. Audio recordings are immediately deleted following the generation of each response.
+Speech recognition may occur either on the user’s device or through cloud-based processing.
+When processing occurs on the device, the audio, transcription, and response remain entirely on the user’s device and are not collected, transmitted, stored, or shared online.
+When processing occurs in the cloud, the user’s audio is securely transmitted to a protected server cluster for temporary processing. Within the server environment, the audio is transcribed, filtered to remove personal information, and used solely to generate a response. The audio and transcription are processed only in volatile memory and are not retained, stored, or shared beyond the duration of processing. The generated response is securely transmitted back to the user’s device and is not collected, stored, or shared online.
+Only local notifications are enabled by default in the App; no remote push notifications or emails are sent.
+Children cannot sign-up (create an account); accounts can only be created after a verified adult has given explicit parental consent.
+Users cannot provide their email addresses or other credentials by default until they give explicit consent for personal information collection and complete the subscription process. This restriction applies to all App interfaces, including settings and onboarding flows.
+If a child contacts us for support, we may ask them for a parent’s email address to notify their parents about their request.
+Parental Gate protects sensitive features and ensures they are accessed only by adults.
+Verifiable Parental Consent
+The App uses two-step verification process includes:
+A “Direct Notice to Parent” screen that appears before clicking the Subscribe button, outlining Buddy.ai’s data collection practices and parental rights.
+Payment confirmation, which verifies adult status and completes the consent process.
+Parental Rights
+Our Services can be used by children with permission from a parent or legal guardian. Only parents should:
+Install the App
+Make payments
+Create and manage accounts
+Provide child-related information
+Access privacy settings and controls
+Grant or withdraw consent for data collection
+Information Collection
+We may collect additional Child’s information: first name, age, gender or English proficiency level.
+With explicit parental consent we may collect voice recordings.
+Parental consent also makes optional data collection features available in the App, such as:
+Providing a parent’s phone number or email address for parent account creation and to enable account-related communications
+Providing a parent’s email address to receive reports on a child’s progress and app updates
+Enabling remote push notifications to receive lesson reminders/any other push notification messages
+Voice Recording Management
+Our App involves children interacting with an AI character through voice. Under COPPA, audio recordings of children’s voices are considered personal information.
+When enabled through Parental consent:
+Recording happens exclusively during specific voice exercises. No audio recording occurs outside designated voice exercises.
+Recordings may be used to improve Buddy.ai’s speech recognition functionality.
+Automatic transcriptions of the child’s speech are collected and stored securely on our server. The System uses the content of the transcription for experience personalization and continuation across sessions.
+Transcriptions may also be used to improve Buddy.ai’s response generation functionality.
+Data is stored on Google Cloud servers with exclusive Buddy.ai access.
+Account data deletion triggers associated voice recording removal.
+Audio data is automatically deleted after 15 years from the recording date.
+Parents can opt out of consent for audio recording through the app’s Settings menu.
+Progress Data Management
+The app doesn’t collect, share or transmit online children’s progress data by default, it’s stored locally on-device. Online collection begins only after obtaining explicit parental consent and account creation. Account-linked progress data stored on Google Firebase servers. Account data deletion triggers associated progress data removal.
+Privacy Controls
+Parents may contact us to  privacy@mybuddy.ai
+in order to request and review information about our privacy practices and personal information we process, including to access information on a child, to delete data, to manage communication preferences or prevent the further collection or use of personal information from their children, or withdraw consent at any time.
+In addition,
+Parents may request a child’s data deletion via App’s interface protected by Parental Gate (settings menu or in-App support chat) or via Email to  privacy@mybuddy.ai . Please follow to section 9 of this Privacy Policy to know more about the data deletion process.
+Parents can opt out of voice recording consent though the Settings menu (protected by Parental Gate).
+Parents can manage push notifications through device settings.
+Parents can opt out of marketing emails via unsubscribe links in email messages.
+3. WHY WE COLLECT INFORMATION
+Core Collection Principles
+We collect and use data for these purposes:
+1. Contractual Obligations:
+To provide our products and Service
+To process payments
+2. Legitimate Business Interests:
+Account management and personalization
+Technical and customer support
+Payment processing
+Privacy policy and Terms updates
+Service maintenance and security
+Market analysis and product development
+Quality improvement
+Internal support operations
+3. Provided by your consent
+Service notifications and updates
+Newsletters
+Pricing information and special offers
+Data Collection Scope
+We only collect information that is:
+Reasonably necessary for service operation
+Protected by appropriate security measures
+Subject to parental control and oversight
+Used exclusively for improving educational services
+4. INFORMATION COLLECTION
+Personal Information Received From You
+Account creation:
+Email address or phone number
+Child’s first name (spaces disabled)
+Child’s age and gender
+Child’s English proficiency level
+Service Usage Information:
+Comments and feedback
+Support requests
+Survey responses
+Account settings and preferences
+Billing Information:
+Processed by applicable payment vendors (Apple, Google, Amazon, Stripe, Moneta, etc) and received by us for payment processing
+The billing information that you enter is not stored by us, but instead is retained by our payments processing vendor.
+Information Collected After Obtaining Explicit Parental Consent
+Child’s voice recordings and the automatically generated transcriptions
+Push notification token
+Authentication credentials such as Email address or Phone number
+Email address for getting reports, newsletter and other communications
+Automatically Collected Information
+Device Information:
+Cookie ID
+User agent
+Session data
+Platform and SDK version
+Device model and specifications
+Operating system details
+Android Advertising ID (by Firebase Analytics only)
+Location and Settings:
+Country-level location only (from IP or device settings)
+Language preferences
+Time zone
+No precise location tracking
+Usage Analytics:
+App version
+Network status
+Service interaction data
+Learning progress
+Session frequency and duration
+Feature usage
+Third-Party Information
+Analytics Data:
+Statistical data from marketing partners
+Compliance-mode analytics
+Authentication Data:
+Managed through Google Firebase
+No password storage by Buddy.ai
+5. INFORMATION COLLECTION METHODS
+Direct Collection
+When you:
+Create an account
+Provide information through the Service
+Contact support
+Subscribe to emails
+Comment on third-party services
+Automatic Collection
+Device and software information during Service navigation
+Usage patterns and interaction data
+Local progress data
+Error reports and debug traces
+Third-Party Sources
+Authentication Services:
+Google Sign-In (OAuth 2.0)
+Sign in with Apple
+Firebase authentication
+Payment Processing:
+Transaction data from payment systems
+Subscription status from app stores
+Analytics and Support:
+Country-level location from IP address
+App usage statistics in compliance mode
+6. HOW WE KEEP AND PROTECT YOUR DATA
+Security Measures We Implement
+Appropriate technical and organizational security measures
+Personal information stored behind security networks
+Limited access to authorized personnel only
+Encrypted communications for internet data transfer
+Secure server storage with exclusive access
+Isolated database environment
+No direct external internet connection
+Security Limitations
+While we implement robust security measures, no data transmission can be 100% secure. We kindly recommend you to access the Service only in secure environments and use strong authentication methods. Please follow device security best practices and regularly review privacy settings.
+7. DATA RETENTION AND DELETION
+Default Retention Period
+The following schedule defines the retention periods for specific categories of Children’s Data
+Data Category
+Purpose (s) of Collection
+Business Need for Retention
+Retention Period / Deletion Trigger
+Account Credentials
+To create and maintain the child’s account and allow access.
+Authentication and account access
+Retained until account deletion
+Gameplay/Activity Data
+To maintain the child’s progress and experience in the app
+Continuity of user experience.
+Retained until account deletion
+Voice recordings and transcriptions
+To maintain the child’s experience in the app
+1. Improvement of speech recognition with parental consent. 2. Ensure AI output follows safety protocols
+Data Deletion Request
+Transcriptions: deleted within 7 days (DB backup retention policy)
+Voice Recordings: deleted within 60 days (Became inaccessible after 30 days + 30 days retained in soft-delete state)
+General retention period: deleted within 5478 days (15 years)
+Parental Contact Information (Email address)
+To provide notice, obtain consent, and communicate regarding the account.
+Legal compliance (proof of consent) and service notifications.
+Deleted upon account deletion. If account was inactive for more than 2 years, email is automatically hashed and original is deleted
+Mailgun: retention period of 30 days
+Sendgrid: retention period of 1 year
+Brevo (Web only): deleted upon account deletion
+FunnelFox (Web only): deleted in a period of maximum 2 weeks after account deletion
+Customer Support Records (Emails, chat logs, tickets)
+To resolve user issues and improve service quality.
+Quality assurance, dispute resolution, and analyzing recurring bugs.
+Deleted after 12 months from the date of ticket closure
+Technical Logs & Analytics (IP addresses, Device IDs, crash reports)
+Security monitoring, debugging, contextual advertising and internal operations.
+Maintaining security, integrity, and optimizing performance, including capping of advertisements.
+Retention period of 30 days
+Sentry: Retention period of 90 days
+Firebase Crashlytics: Retention period of 90 days
+Transaction or Subscription data
+To enable in-app purchases, subscriptions, resolve payment issues, and provide continuity in account access/progress.
+Maintaining records for payment issues or disputes, regulatory compliance, and continuity of user experience.
+Retained for 5 years after purchase for the purpose of fraud prevention. After 5 years its deleted or anonymized
+Data Processing After Collection
+When we no longer need personal information:
+Data is deleted
+If immediate deletion is impossible (e.g., backup archives), data is:
+Securely stored
+Isolated from further processing
+Deleted when technically possible
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+Legal Requirements
+Some information may be retained longer for:
+Tax purposes
+Accounting requirements
+Legal compliance
+Service-related communications
+Data Deletion process
+You can delete personal data via the Settings menu. The data deletion process via the Settings menu is conducted in two stages:
+Account Data Deletion:
+For users who have not created parental accounts: All data related to the App installation will be deleted. No additional verification required.
+For users who have created parental accounts: All data related to App installations on devices related to the account will be deleted. No additional verification required.
+Email Data Deletion:
+For users who provide their emails to receive reports, newsletters and other materials: A verification email will be sent to initiate the deletion of email-specific data. After email confirmation all data associated with the email address is deleted.
+You can request data deletion also via Support chat. Such requests resolve by redirecting parents to the in-App Settings menu.
+You can request data deletion by email:
+Email Data Deletion: For users who have provided their email addresses to receive reports, newsletters, and other materials — all data associated with the email address will be deleted.
+Account Data Deletion: Depending on whether the user has created a parent account and the authorization method used, additional verification information may be required. This information can be accessed in the application settings menu. Once the additional information is received, all data associated with the account will be deleted.
+Some data may be stored locally on your device (local on-device data) and we do not collect or have access to it. You can delete such data in the in-App or device settings menu.
+For information stored on your device, you can also manage your cookies preferences via your browser and/or device settings. The majority of Internet browsers will enable you to delete cookies from your computer’s hard drive, refuse acceptance of cookies and/or receive a specific warning before cookies are stored within your system.
+8. HOW WE SHARE YOUR DATA
+Service Providers
+We share information with trusted service providers who assist in operating our Service and providing its features:
+Firebase for authentication and progress data storage
+Google Cloud for secure storage of voice recordings
+Zendesk for customer support services
+These providers:
+Receive only information necessary for their specific functions
+Are contractually bound to protect data
+Cannot use data beyond specified purposes
+Analytics and Technical Services
+We work with analytics providers:
+Amplitude for user behavior analysis (no persistent identifiers collection)
+Statsig for user behavior analysis (no persistent identifiers collection)
+AppsFlyer for attribution (strict mode)
+Firebase Analytics for basic app functionality
+Segment for data routing
+Crashlytics for app stability
+Sentry for technical logs analysis
+General advertising and monetisation services
+We work with advertising and monetisation service providers with disabled Advertiser IDs collection:
+Facebook for advertising (autologging is disabled)
+Ngrow for communication with parents
+We do not use or disclose any personal information from children for advertising or marketing purposes.
+Payment Processing Services
+Payment information is handled by:
+Apple App Store
+Google Play Store
+RevenueCat
+Stripe
+Amazon Payments
+Moneta
+PayPal
+These processors shall request only adult (parents) payment information as a payee, never children’s data.
+Email Service Providers
+We work with these service providers to reach parents by emails:
+Mailgun for transactional emails (password resets, subscription confirmations, receipts)
+Twilio SendGrid for transactional and marketing emails (progress reports, notifications, promotional content)
+These services receive parent email addresses only. No children’s PII is shared. Data includes email addresses and email content appropriate to each email type.
+Data Protection Agreements
+You can review our service providers' Data Processing Agreements at:
+Firebase:
+https://firebase.google.com/terms/data-processing-terms
+Amplitude:
+https://amplitude.com/terms/dpa
+Statsig:
+https://www.statsig.com/legal/online-dpa
+AppsFlyer:
+https://www.appsflyer.com/gdpr/dpa.pdf
+Segment:
+https://www.twilio.com/enus/legal/tos
+Zendesk:
+https://www.zendesk.com/company/agreements-andterms/
+Stripe:
+https://stripe.com/legal/dpa
+RevenueCat:
+https://www.revenuecat.com/dpa/
+Sentry:
+https://sentry.io/legal/dpa/
+Facebook:
+https://www.facebook.com/legal/terms/Privacy
+Amazon:
+https://docs.aws.amazon.com/whitepapers/latest/navigating-gdpr-compliance/aws-data-processing-addendum-dpa.html
+Apple iOS:
+https://developer.apple.com/support/terms/apple-developer-program-license-agreement/
+Google Cloud:
+https://cloud.google.com/terms/data-processing-addendum
+Ngrow:
+https://www.ngrow.ai/privacy-policy
+Mailgun:
+https://www.mailgun.com/legal/privacy-policy/
+Twilio SendGrid:
+https://www.twilio.com/en-us/legal/data-protection-addendum
+Brevo:
+https://www.brevo.com/legal/privacypolicy
+All service providers operate under strict data protection agreements that prohibit the use of data for behavioral advertising or any purpose beyond what’s necessary for service operation.
+Legal Requirements
+We may share information:
+To comply with laws
+To enforce our Service policies
+To protect rights and safety
+Only as required by COPPA or applicable laws
+Business Transfers
+Adult user data may be transferred during:
+Mergers and acquisitions
+Company asset sales
+Financing arrangements
+Children’s personal information receives special protection during any business transfers, following COPPA requirements.
+9. RIGHTS YOU HAVE
+General Rights
+Request information about data collection and usage
+Review collected information
+Modify or update information
+Delete personal information
+Opt out of marketing communications
+Control push notification settings
+If you are located in the European Economic Area or United Kingdom, you may also have the right to limit, restrict, or object to the processing of your personal information. If you are from the specified countries and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority in certain circumstances.
+Communication Management
+You can unsubscribe from marketing via email link. Service-related messages may keep coming unless the account is deleted. Push notifications manageable through device settings.
+You can contact Support for preference updates via email:
+support@mybuddy.ai .
+Implementation Timeline
+Data deletion is initiated upon request. Some data may be temporarily retained in backups before permanent deletion.
+Marketing opt-out processed within 24 hours
+Local on-device data may still exist until you delete the App or perform data deletion from the in-App or device settings menu.
+10. WEB COOKIES AND TRACKING TECHNOLOGIES
+Purpose and Collection
+We use cookies, tracking technologies, and other technologies like pixel tags, web beacons, and clear GIFs to:
+Improve product and service quality
+Track user interaction statistics
+Identify and resolve technical problems
+Collect non-personal data
+Analytics and Technical Services
+We work with the following analytics providers:
+Analytics:
+Amplitude’s Browser SDK for user behavior analysis
+Google Analytics 4 for attribution
+Microsoft Clarity for user behavior analysis
+Facebook WEB Pixel by Meta for attribution
+Brevo for web funnel marketing communications
+User consent managing:
+Cookiebot by Usercentrics
+Email Tracking
+Our emails may contain tracking code to monitor:
+Email opens
+User actions
+Communication effectiveness
+User Control
+You can manage tracking preferences through:
+Browser settings
+Device settings
+Cookie deletion options
+Cookie acceptance controls
+Pre-notification warnings

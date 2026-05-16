@@ -1,0 +1,148 @@
+Home Library Ambassador Join Discord Get the App Search Home Library Ambassador Join Discord Get the App Privacy Policy 1. Introduction
+This Privacy Policy explains how Ouraca Inc. (“Aibrary”, “we”, “our”, or “us”) collects, receives, processes, uses, discloses, or shares your personal information. When you use our websites, products, or services, or otherwise establish a relationship with us, we may obtain data from you and the devices you use.
+We are committed to transparency and to handling your personal information with care and respect. If you have any questions or concerns, you may contact us at
+privacy@aibrary.ai .
+2. Scope
+This Privacy Policy applies to personal information provided or collected through our websites, applications, products, and services. In some cases, additional notices may apply for specific products, practices, or regions.
+If you access Aibrary through third-party platforms, those platforms may independently collect and process your data. Their policies govern such practices and are outside our control.
+3. Applicable Law
+We recognize our responsibility to handle personal data in compliance with applicable data protection laws, including the
+General Data Protection Regulation (GDPR) , the
+UK GDPR , and relevant U.S. state privacy laws (e.g.,
+California Consumer Privacy Act (CCPA/CPRA) ).
+4. Information We Collect
+We may collect or process the following categories of personal data:
+Identifiers:
+name, alias, postal address, email address, IP address, account name, or similar identifiers.
+Customer Records:
+payment details, subscription purchases.
+Internet/Electronic Activity:
+browsing history, app interactions, search history.
+Geolocation Data.
+Professional or Educational Information.
+Content Data:
+user inputs, AI interactions, direct messages.
+Audio & Voice Data:
+voice recordings, voice samples, vocal characteristics (used for Idea Twin personalization).
+Social Media Profile Information:
+from LinkedIn or other connected accounts (profile, interests, posts, public content).
+User-Generated Content (UGC):
+podcasts, book lists, reviews, community posts.
+Community Interaction Data:
+likes, comments, shares, saves, follows.
+AI Chat Data:
+records of conversations with our AI system.
+Commercial Transaction Data:
+billing information, purchase history.
+Inferences:
+insights about preferences, characteristics, behaviors.
+5. Sources and Purposes
+We collect data from:
+Information you provide directly.
+Connected social media accounts.
+Automatic data collection (cookies, analytics).
+Service providers and business partners.
+Purposes of processing:
+Delivering and improving services.
+Personalization and recommendations.
+Security, fraud prevention, and compliance.
+Communication and account management.
+Marketing and promotions (including targeted advertising).
+Processing payments and managing subscriptions.
+Product development, analytics, and testing.
+Legal bases under GDPR:
+Consent
+(e.g., for voice data, social media integration, marketing communications).
+Contractual necessity
+(to deliver services you request).
+Legal obligations
+(e.g., financial recordkeeping).
+Legitimate interests
+(e.g., service improvement, fraud prevention, basic analytics).
+6. Special Features and Consent
+Idea Twin Personalization:
+requires explicit consent to process your voice data and connected social media information.
+AI Recommendations & Community Features:
+use social and interaction data to enhance personalization.
+Sensitive Data (Voice, Social Media):
+we will request your
+explicit consent
+before processing. You may withdraw consent at any time in account settings.
+7. Disclosure of Information
+We may disclose personal data to:
+Hosting, IT, and SaaS Providers
+(for operations).
+Advertising and Marketing Partners
+(for promotions and analytics).
+Payment Providers and Banks
+(for billing).
+AI/Voice Processing Providers
+(under strict agreements).
+Community Infrastructure Providers
+(for moderation and hosting).
+Affiliated Companies
+(within our group for service delivery).
+Public Authorities
+(where required by law).
+We do not sell personal information. We may share limited data with partners for advertising purposes, consistent with applicable law.
+8. Retention of Data
+We retain personal data only as long as necessary for the purposes described or as required by law. Examples:
+Voice Data:
+retained while your account is active, and up to 90 days after deletion, unless you request earlier removal.
+AI Chat Logs:
+retained for 2 years (with anonymization after 6 months).
+Commercial Data:
+retained for 7 years for financial compliance.
+Community Content:
+remains public unless you delete it; anonymized versions may be retained.
+We apply criteria such as legal obligations, business needs, and user choices when determining retention periods.
+9. Children’s Privacy
+Our services are
+not intended for children under 13 in the U.S. (or under 16 in the EU/EEA, where applicable) .
+We do not knowingly collect data from children below these ages. If we discover such collection, we will delete the data and terminate the account.
+10. Cookies and Tracking
+We use cookies and similar technologies to improve user experience. You may disable cookies in your browser settings, but some features may not function properly.
+11. International Data Transfers
+We may transfer personal data globally. When transferring outside the EU/UK, we rely on:
+Adequacy decisions by the European Commission or UK government.
+Standard Contractual Clauses (SCCs)
+or equivalent safeguards.
+Your
+explicit consent
+in limited cases.
+12. Your Privacy Rights
+Depending on your location, you may have rights including:
+Access, rectification, deletion.
+Restriction or objection to processing.
+Data portability.
+Withdrawal of consent.
+Opt-out of targeted advertising, profiling, or sale/sharing of data.
+Enhanced rights:
+Control over voice data and AI models.
+Ability to disconnect social media integrations.
+Management of AI chat history and community content.
+We will honor these rights unless limited by legal obligations. Exercising rights will not result in discrimination.
+13. California Residents (CCPA/CPRA Notice)
+If you are a California resident:
+We do
+not sell
+personal information.
+We may “share” personal information for targeted advertising, as defined under CPRA.
+You have the right to:
+Know what personal information we collect and disclose.
+Request deletion of your personal information.
+Opt out of sharing personal information for advertising.
+Request correction of inaccurate data.
+To exercise these rights, contact us at
+privacy@aibrary.ai .
+14. Marketing Communications
+We may use your email to send information about similar services. You can opt out at any time. Administrative or transactional emails will still be sent.
+15. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Material changes will be notified by email or prominent notice in our services at least
+30 days prior
+to taking effect. Continued use of our services after the effective date constitutes acceptance.
+16. Contact Us
+Ouraca Inc.
+Registered in Delaware, United States
+Email: privacy@aibrary.ai
+Last Updated: September 8, 2025 00:00 / 00:00 Top Your AI Learning Companion Company About Press Skills Privacy Policy Terms and Conditions Download iOS Android Copyright © 2025 Ouraca Inc. | All Rights Reserved Privacy Policy | Aibrary

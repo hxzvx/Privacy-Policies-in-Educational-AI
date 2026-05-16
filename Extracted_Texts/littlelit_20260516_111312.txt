@@ -1,0 +1,127 @@
+Privacy Policy of LittleLit | Data Use and Protection Guide
+top of page Homeschools AI for Kids Schools Book A Demo AI for Special Education K-12 Student AI Skills Curriculum Pricing Resources Free Resources AI Curriculum for Kids AI Projects for Students AI Tutors | Homework Helpers Presidential AI Challenge
+AI for ESL Student Support Creative AI Tools for kids Blog About us Login Schools & Homeschools AI For Kids (not homeschools) School Demo LittleLit AI Privacy Policy ​
+Effective Date: Jan 2, 2025
+LittleLit.ai (“LittleLit,” “we,” “us,” or “our”) is committed to protecting the privacy and security of our users, especially educators and students. This Privacy Policy describes how we collect, use, disclose, store, and protect personal information collected through our website, applications, and services (collectively, the “Services”). By accessing or using our Services, you agree to this Privacy Policy.
+1. Scope and Applicability
+This Privacy Policy applies to all individuals who use LittleLit’s Services, including educators, students, parents/guardians, administrators, and institutions.
+If an educational institution has a separate Data Processing Addendum (DPA) or agreement with LittleLit, the terms of that agreement may supplement or override parts of this Policy.
+2. Key Definitions
+Personal Data / Personally Identifiable Information (PII): Information that identifies or could reasonably identify an individual.
+Student Data / Educational Records: Personal data relating to students, including assignments, submissions, progress, and learning records.
+Educational Institution: A school, district, or organization using LittleLit for educational purposes.
+Users: Educators, students, parents/guardians, and administrators using the Services.
+Processing: Any action performed on personal data, including collection, use, storage, disclosure, or deletion.
+3. Information We Collect
+a. Information You Provide
+Account registration (name, email, password, role, institution).
+Optional profile details (photo, bio).
+Feedback, support requests, and communications.
+Payment or billing information through secure third-party processors.
+b. Student Data
+Collected only as required to deliver educational functionality.
+May include student names, identifiers, progress metrics, assignments, and activity data.
+Student Data is controlled by the parent/guardian or institution and used only for educational purposes.
+c. Usage and Technical Information
+Service usage details such as pages visited, features used, and timestamps.
+Device information including IP address, browser, operating system, and device identifiers.
+Cookies, web beacons, and analytics data for functionality and improvement.
+d. Third-Party Sources
+Information received through integrations (e.g., Google sign-in, cloud services).
+Publicly available information when relevant.
+4. Legal Bases for Processing (EU/UK)
+For EU/EEA and UK users, LittleLit processes data based on one or more lawful bases:
+Consent (where required)
+Performance of a contract
+Legitimate interests (such as analytics, security, service improvement)
+Compliance with legal obligations
+5. How We Use Information
+We use information to:
+Operate, maintain, and improve our Services.
+Manage and authenticate accounts.
+Personalize experiences and educational recommendations.
+Communicate updates, security alerts, and support responses.
+Prevent fraud, abuse, and misuse.
+Fulfill legal and contractual obligations.
+Student Data is used only for educational purposes and never for advertising or profiling outside the learning context.
+Email Communications
+We use email addresses to support core account functionality and service-related communications, including account activation, password resets, onboarding and training materials, and notifications about product updates or new features.
+Customers may opt out of non-essential emails at any time by clicking the “ unsubscribe ” link included in the footer of our emails. Please note that essential service-related emails (such as account security or transactional messages) may still be sent as required to operate the Platform.
+​
+6. Information Sharing and Disclosure
+We do not sell or rent your personal information. We may share information with:
+Service Providers / Sub-processors: Hosting, analytics, payment, AI processing, and support vendors under confidentiality obligations.
+Educational Institutions: To support classroom management and oversight, as permitted by institutional policies.
+Legal Requirements: When necessary to comply with law, regulation, or court order.
+Business Transfers: If we merge, acquire, or sell assets, provided the successor honors this Policy.
+With Consent: When you authorize sharing for specific purposes.
+We never share Student Data for advertising or cross-context behavioral profiling.
+7. Data Retention and Deletion
+We retain personal information only as long as necessary for the purposes stated in this Policy or as required by law.
+When an account is deleted, data is removed from active systems; some may remain temporarily in backups or archives.
+Parents, guardians, or institutions may request deletion of Student Data at any time, subject to legal or contractual obligations.
+8. Data Security and Breach Response
+LittleLit uses industry-standard administrative, technical, and physical safeguards:
+Encryption in transit and at rest
+Access controls and least-privilege policies
+Secure password storage
+Regular audits and monitoring
+If a data breach occurs, we will assess and contain it, notify affected users and regulators where required (e.g., within 72 hours under GDPR), and take corrective measures.
+9. Your Rights and Choices
+General Rights
+Depending on your location, you may:
+Access your personal data
+Correct or update inaccurate data
+Request deletion or erasure
+Restrict or object to processing
+Receive a copy of your data (data portability)
+Withdraw consent at any time
+We may verify your identity before fulfilling requests.
+California Privacy Rights (CCPA / CPRA)
+California residents have the right to:
+Know what personal information we collect and how it’s used
+Request deletion of personal information
+Request correction of inaccurate data
+Opt out of any “sale” or “sharing” (we do not sell or share data for advertising)
+Be free from discrimination for exercising these rights
+To exercise these rights, contact
+privacy@littlelit.ai
+with “California Privacy Request” in the subject line.
+EU/EEA and UK Data Subjects (GDPR / UK GDPR)
+If you are in the EU, EEA, or UK, you have the right to:
+Access, rectify, or erase your data
+Restrict or object to processing
+Receive your data in a portable format
+Withdraw consent
+Lodge a complaint with your local supervisory authority
+International data transfers outside the EU/UK are safeguarded using Standard Contractual Clauses or equivalent measures.
+10. Children’s Privacy
+LittleLit complies with laws such as COPPA (U.S.) and GDPR for minors.
+Parental or institutional consent is required for users under the applicable age threshold.
+Only minimal personal data is collected from children.
+Parents/guardians can review, correct, or delete their child’s data at any time.
+11. Cookies and Tracking Technologies
+We use cookies and similar tools to improve our Services.
+Types of cookies:
+Essential – for login and security
+Performance – for analytics (e.g., Google Analytics)
+Functional – for saving preferences
+Optional – for personalization (can be disabled)
+You can adjust browser settings to reject non-essential cookies, though some features may not function properly.
+12. Automated Decision-Making and Profiling
+If LittleLit uses automated systems (e.g., to personalize lessons or suggest content), we ensure such processing:
+Has no legal or similarly significant effect on users
+Is transparent, limited in scope, and reviewed by humans when necessary
+Complies with applicable law
+13. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time.
+Material updates will be communicated through the Services or by email at least 30 days before they take effect.
+The “Effective Date” will be updated to reflect revisions.
+14. Contact Us
+For privacy questions, concerns, or requests, contact:
+LittleLit.ai
+Attn: Data Protection Officer / Privacy Team
+Email: support@littlelit.ai
+EU/UK residents may also contact their local data protection authority regarding unresolved concerns. Up
+Back To Top LittleLit.ai empowers families to create joyful, personalised learning experiences at home. Designed for modern homeschoolers, we blend creativity, structure, and AI‑guided support to help parents teach with confidence and kids learn with curiosity. Together, we make homeschooling simpler, richer, and beautifully human. AI for Homeschool Homeschool Curriculum Texas k12 Curriculum California Curriculum Florida Curriculum New York Curriculum Reading Curriculum Writing Curriculum Foreign Language Curriculum Financial Literacy AI for Homeschool How to Homeschool by State Guide LittleLit AI vs Power Homeschool LittleLit AI vs Miacademy LittleLit AI vs Time4Learning LittleLit AI vs Khanmigo LittleLit AI vs ChatGPT Free Homeschool Guide AI for Homeschooling Homeschool Electives AI for Kids AI Curriculum for Kids K12 AI Skills Curriculum AI for Special Education ESL Support AI Writing Coach AI Tutors / Homework Helper AI Chatbots for Kids AI Art Generator AI Projects for Students TEFA Guide (2026) Quick Links Blog News Pricing Student AI Safety & Responsible Use AI Teacher Certificate Presidential AI Challenge
+info@littlelit.ai © Copyright of 2026 LittleLit AI Inc. bottom of page

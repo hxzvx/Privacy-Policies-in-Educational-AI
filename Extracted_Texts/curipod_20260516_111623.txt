@@ -1,0 +1,75 @@
+Privacy policy Curipod uses cookies to track website traffic and to provide a great customer support. See full cookie policy Ok English (US) Log in Sign Up For Free Last update: September 26th, 2025
+Please read this carefully
+This Privacy Policy applies to the use of the Curipod software and website (from now refered to as the " Services " or " Curipod Platform "), . It governs how Curipod (sometimes referred to as " us ", " we " or " our ") provide our Services to Customers and Users. When we talk about Customers and Users we might also refer to " You " or " Your ".
+We respect your privacy and are committed to maintaining and using any information we collect through your use of our Services responsibly and in accordance with FERPA & COPPA & GDPR
+Curipod will
+never
+use student data for commercial purposes.
+If you are a representative for a school, school district or an organization and you need a signed data processing agreement with us to comply with FERPA & COPPA & GDPR or other regulations, reach out to eirik@curipod.com and you will get access and help with any questions you may have.
+Curipod as data controller
+When signing up as a User for the Platform directly Curipod will act as a data controller. We process your data in accordance with this agreement.
+Note that if you are part of an Organization, a seperate data processing agreement might be in place where your Organization is the data controller. In this case, please reach out to your Organization to learn how your data is processed.
+The Personal Information We May Collect
+We may collect and process information that could be directly or indirectly associated with you ("Personal Information", "Personal Data" ) Our primary purpose in collecting Person Information is to provide you with a safe, smooth, efficient, and customized experience. Depending on the manner in which you use our Services, we collect information about you that we deem necessary for providing Services and features that optimize, secure, and ease your user experience.
+Teachers using Curipod (Registered users)
+Personal Information we may process
+What is it used for?
+How long is stored? Email and name.
+For setting up your account, providing email support
+Until you delete your account, or reach out to us and ask for your data to be deleted Password
+To enable secure login
+Until you delete your account, or reach out to us and ask for your data to be deleted Instance ID
+To be able to send push notifications when opted in.
+Until you delete your account, or reach out to us and ask for your data to be deleted Openid
+The identificator for a user's profile that belongs to the user's identity provider. This is used to connect the user's Curipod profile with the user's identity provider profile. (relevant if you sign in with Google for example)
+Until you delete your account, or reach out to us and ask for your data to be deleted IP address
+For error tracking to give users a better user experience
+Stored temporarily, and deleted latest within 180 days after user deletion. In-app behavior such as lessons created and played
+To recommend content to the user, and for us to further develop the Services
+Until you delete your account, or reach out to us and ask for your data to be deleted Presentation content
+You might add personal data to your lessons. We will process this safely like all other personal data.
+Until you delete your account, or reach out to us and ask for your data to be deleted Payment information
+To let you pay for our services
+Until you delete your account, or reach out to us and ask for your data to be deleted, except for when applicable law demands storing the data. Email
+If you sign up with an email address associated with an organization, we may share your email address with that organization. We may send marketing communications and newsletters to non-student users personalized from their experience on the services such as products and offers that are tailored to them. We may use email address to create lookalike audiences on third-party platforms (such as Meta, Google, or TikTok). This allows us to deliver more relevant ads and reach new people with similar interest. Related to this, if a non-student user outside of Europe visits Curipod.com directly from a digital ad, we may provide that website with a confirmation that the user has successfully signed up and used Curipod, to evaluate and inform our marketing effort. This confirmation is limited to an anonymized string (fbclid, gclid or ttcid) confirming the two events. Only non-student users coming from a digital ad will be affected by this.
+If you want to opt out, please email joachim@curipod.com. Users in the EU are opted out by default.
+Until you delete your account, or reach out to us and ask for your data to be deleted
+Students using Curipod ( Note that students don't have accounts)
+Personal Information we may process
+What is it used for?
+Hows long is stored? IP address
+To prevent abuse and hacking.
+Stored a maximum of 3 weeks. Student responses and optionally student names
+To let the teacher identify students and access students' results.
+Stored in teacher account until the teacher deletes their account, ask for deletion, or DPA mandates deletion.
+How Personal Information May Be Disclosed
+The Personal Information may be disclosed:
+To our third party service providers who provide services such as website hosting, data analysis, information technology and related infrastructure provision, customer service, email delivery, auditing and other services. Curipod will never use student data for commercial purposes, nor will we let any third parties use student data for commercial purposes.
+Data storage in the United States
+If you want teacher and student data to be stored in the United States, please reach out to jens@curipod.com
+For European customers, we do not transfer Personal Data to a country outside the European Union ("EU")/European Economic Area ("EEA").
+As a default, data will be stored in Europe.
+Access to Your Information and other rights
+You are, at any time and free of charge, entitled to receive a copy of the personal data that we hold about You and information about the processing thereof. Please note that Curipod needs to be able to determine your identity in order to be able to respond to your request.
+You have the right to have Your personal data deleted on request, as soon as possible, and no later than 180 days after Your request. Please note that Curipod is not obliged to delete the personal data if Curipod can show that the processing is necessary, for example, for the establishment, exercise, or defense of a legal claim.
+If you provide Your email address to Curipod, you will always have the opportunity to opt out of receiving email notifications through the unsubscribe link in the email communications or by logging into and changing the preferences for your user account.
+Breach response plan
+In case of security incidents with a risk of affecting personal data, all user will be notified with a description of the security breach, who might be affected by the breach, what data might be affected, what measures have been taken to handle the security breach, and what measures are established to avoid a similar security breach in the future.
+Personal Information and Artificial Intelligence
+We have implemented strong safeguards to make sure Personal Information is processed diligently in relations to AI models used in Curipod. We do not use teacher or student data to train artificial intelligence models. The third party AI model providers we use do not use teacher or student data provided by Curipod users to train their artificial intelligence models. When an AI is prompted in Curipod, the personal data connected to that account, such as email and school name, is not shared as part of the prompt to the model provider.
+Google Workspace Data Usage
+We allow users to connect their Google Drive accounts to upload presentations directly to Curipod. The content of these presentations is parsed and passed through an AI model to generate complementary slides and activities. We do not use any Google Workspace data to develop, improve, or train generalized/non-personalized AI/ML models. The data transferred to third-party AI tools is solely for the purpose of generating complementary content and is not used for training generalized/non-personalized AI/ML models.
+FERPA and COPPA Compliance
+We comply with FERPA and COPPA and when applicable to us. When FERPA applies, we act as a "school official" to our school or school district customer, which means that we are under the direct control of the school or district and use students' personal information only to provide our services to the school or district. To the extent COPPA applies, the school or district provides us with any necessary consent on behalf of students' parents or guardians to permit use of Curipod in the classroom.
+Additional promises
+Personal information is not sold or rented to third parties.
+Personal information is not shared for third-party marketing.
+Personalised advertising is not displayed.
+Personal Information is not collected by our third party sub-processors for their own purposes.
+Curipod does not create a data profile about you for personalised advertisements. However, we may send marketing communications and newsletters to non-student users personalized from their experience on the services such as products and offers that are tailored to them
+We encrypt all data in transit.
+We make sure all data are stored in an encrypted format.
+Changes to the Privacy Policy
+We may review and update this Privacy Policy from time to time in our sole discretion. As such, your continued use of the Services after receipt of notification of changes to this Privacy Policy is deemed to be acceptance of those changes. The notification will be provided in reasonable time before changes apply.
+Curipod Inc
+Email: eirik@curipod.com Made with 🧡 from Norway © 2026 Curipod AS Follow us Company About Us Blog Contact Us Pricing Careers The Curipod Learning Principles Community Join Our Community Ambassador Program Webinars and Events Legal Privacy Policy State and District Privacy Agreements Cookie Policy AI in Curipod Terms of Use Resources Case Studies & Research STAAR & TELPAS Test Prep For Business Accessibility Moderation Tool Connectivity Issues Training and PD Curipod Coaches
