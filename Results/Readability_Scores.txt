@@ -1,0 +1,329 @@
+Privacy Policy Readability Scores
+======================================================================
+
+Generated: 2026-05-16 11:57:28
+Policies analyzed: 22
+
+Name: aibrary_20260516_112040
+Text file: aibrary_20260516_112040.txt
+Word count: 1028
+Sentence count: 97
+Average sentence length: 10.6
+Flesch-Kincaid Grade: 12.21
+Flesch Reading Ease: 26.38
+Gunning Fog Index: 15.8
+Coleman-Liau Index: 15.35
+SMOG Index: 13.41
+Automated Readability Index: 12.56
+Dale-Chall Readability Score: 13.32
+Difficult Words: 305
+----------------------------------------------------------------------
+Name: buddy_20260516_111344
+Text file: buddy_20260516_111344.txt
+Word count: 3162
+Sentence count: 152
+Average sentence length: 20.8
+Flesch-Kincaid Grade: 16.71
+Flesch Reading Ease: 12.35
+Gunning Fog Index: 19.24
+Coleman-Liau Index: 18.07
+SMOG Index: 16.89
+Automated Readability Index: 18.55
+Dale-Chall Readability Score: 13.84
+Difficult Words: 645
+----------------------------------------------------------------------
+Name: coconote_20260516_111758
+Text file: coconote_20260516_111758.txt
+Word count: 5773
+Sentence count: 248
+Average sentence length: 23.28
+Flesch-Kincaid Grade: 15.32
+Flesch Reading Ease: 26.68
+Gunning Fog Index: 19.16
+Coleman-Liau Index: 14.16
+SMOG Index: 17.04
+Automated Readability Index: 16.29
+Dale-Chall Readability Score: 11.43
+Difficult Words: 718
+----------------------------------------------------------------------
+Name: Coursiv_20260516_111158
+Text file: Coursiv_20260516_111158.txt
+Word count: 4872
+Sentence count: 209
+Average sentence length: 23.31
+Flesch-Kincaid Grade: 14.19
+Flesch Reading Ease: 34.83
+Gunning Fog Index: 17.21
+Coleman-Liau Index: 12.41
+SMOG Index: 15.63
+Automated Readability Index: 14.9
+Dale-Chall Readability Score: 11.5
+Difficult Words: 654
+----------------------------------------------------------------------
+Name: curipod_20260516_111623
+Text file: curipod_20260516_111623.txt
+Word count: 1707
+Sentence count: 73
+Average sentence length: 23.38
+Flesch-Kincaid Grade: 13.4
+Flesch Reading Ease: 40.61
+Gunning Fog Index: 16.03
+Coleman-Liau Index: 11.65
+SMOG Index: 14.59
+Automated Readability Index: 13.86
+Dale-Chall Readability Score: 11.19
+Difficult Words: 294
+----------------------------------------------------------------------
+Name: google_20260516_111719
+Text file: google_20260516_111719.txt
+Word count: 8735
+Sentence count: 331
+Average sentence length: 26.39
+Flesch-Kincaid Grade: 14.45
+Flesch Reading Ease: 38.47
+Gunning Fog Index: 17.49
+Coleman-Liau Index: 12.58
+SMOG Index: 15.6
+Automated Readability Index: 16.07
+Dale-Chall Readability Score: 11.48
+Difficult Words: 828
+----------------------------------------------------------------------
+Name: grammarly_20260516_111639
+Text file: grammarly_20260516_111639.txt
+Word count: 5913
+Sentence count: 229
+Average sentence length: 25.82
+Flesch-Kincaid Grade: 15.65
+Flesch Reading Ease: 28.88
+Gunning Fog Index: 17.99
+Coleman-Liau Index: 13.75
+SMOG Index: 16.18
+Automated Readability Index: 16.96
+Dale-Chall Readability Score: 11.86
+Difficult Words: 706
+----------------------------------------------------------------------
+Name: halomind_20260516_111915
+Text file: halomind_20260516_111915.txt
+Word count: 878
+Sentence count: 36
+Average sentence length: 24.39
+Flesch-Kincaid Grade: 15.48
+Flesch Reading Ease: 27.53
+Gunning Fog Index: 19.78
+Coleman-Liau Index: 13.95
+SMOG Index: 17.38
+Automated Readability Index: 16.48
+Dale-Chall Readability Score: 11.41
+Difficult Words: 183
+----------------------------------------------------------------------
+Name: jenni_20260516_111657
+Text file: jenni_20260516_111657.txt
+Word count: 1929
+Sentence count: 92
+Average sentence length: 20.97
+Flesch-Kincaid Grade: 14.06
+Flesch Reading Ease: 31.62
+Gunning Fog Index: 16.52
+Coleman-Liau Index: 13.51
+SMOG Index: 15.26
+Automated Readability Index: 14.79
+Dale-Chall Readability Score: 12.44
+Difficult Words: 371
+----------------------------------------------------------------------
+Name: khanacademy_20260516_111453
+Text file: khanacademy_20260516_111453.txt
+Word count: 4387
+Sentence count: 159
+Average sentence length: 27.59
+Flesch-Kincaid Grade: 16.41
+Flesch Reading Ease: 26.58
+Gunning Fog Index: 19.48
+Coleman-Liau Index: 13.68
+SMOG Index: 17.17
+Automated Readability Index: 17.53
+Dale-Chall Readability Score: 11.5
+Difficult Words: 583
+----------------------------------------------------------------------
+Name: littlelit_20260516_111312
+Text file: littlelit_20260516_111312.txt
+Word count: 1354
+Sentence count: 75
+Average sentence length: 18.05
+Flesch-Kincaid Grade: 14.93
+Flesch Reading Ease: 20.19
+Gunning Fog Index: 18.0
+Coleman-Liau Index: 16.43
+SMOG Index: 15.8
+Automated Readability Index: 15.87
+Dale-Chall Readability Score: 13.95
+Difficult Words: 402
+----------------------------------------------------------------------
+Name: mindgrasp_20260516_111847
+Text file: mindgrasp_20260516_111847.txt
+Word count: 2591
+Sentence count: 114
+Average sentence length: 22.73
+Flesch-Kincaid Grade: 14.69
+Flesch Reading Ease: 30.21
+Gunning Fog Index: 17.92
+Coleman-Liau Index: 14.02
+SMOG Index: 16.21
+Automated Readability Index: 15.83
+Dale-Chall Readability Score: 11.19
+Difficult Words: 471
+----------------------------------------------------------------------
+Name: myessayfeedback_20260516_112020
+Text file: myessayfeedback_20260516_112020.txt
+Word count: 842
+Sentence count: 42
+Average sentence length: 20.05
+Flesch-Kincaid Grade: 12.86
+Flesch Reading Ease: 38.59
+Gunning Fog Index: 15.95
+Coleman-Liau Index: 13.1
+SMOG Index: 14.96
+Automated Readability Index: 13.72
+Dale-Chall Readability Score: 10.78
+Difficult Words: 167
+----------------------------------------------------------------------
+Name: nouswise_20260516_111826
+Text file: nouswise_20260516_111826.txt
+Word count: 4618
+Sentence count: 172
+Average sentence length: 26.85
+Flesch-Kincaid Grade: 15.86
+Flesch Reading Ease: 29.18
+Gunning Fog Index: 18.98
+Coleman-Liau Index: 13.42
+SMOG Index: 16.84
+Automated Readability Index: 17.37
+Dale-Chall Readability Score: 11.26
+Difficult Words: 630
+----------------------------------------------------------------------
+Name: pinwheel_20260516_111420
+Text file: pinwheel_20260516_111420.txt
+Word count: 3753
+Sentence count: 213
+Average sentence length: 17.62
+Flesch-Kincaid Grade: 13.22
+Flesch Reading Ease: 31.63
+Gunning Fog Index: 16.47
+Coleman-Liau Index: 14.28
+SMOG Index: 15.05
+Automated Readability Index: 13.77
+Dale-Chall Readability Score: 12.36
+Difficult Words: 591
+----------------------------------------------------------------------
+Name: qanda_20260516_111937
+Text file: qanda_20260516_111937.txt
+Word count: 3784
+Sentence count: 131
+Average sentence length: 28.89
+Flesch-Kincaid Grade: 19.63
+Flesch Reading Ease: 5.77
+Gunning Fog Index: 22.62
+Coleman-Liau Index: 17.26
+SMOG Index: 19.59
+Automated Readability Index: 21.2
+Dale-Chall Readability Score: 13.47
+Difficult Words: 616
+----------------------------------------------------------------------
+Name: questaikids_20260516_111402
+Text file: questaikids_20260516_111402.txt
+Word count: 350
+Sentence count: 14
+Average sentence length: 25.0
+Flesch-Kincaid Grade: 17.89
+Flesch Reading Ease: 11.29
+Gunning Fog Index: 20.74
+Coleman-Liau Index: 18.03
+SMOG Index: 18.24
+Automated Readability Index: 20.59
+Dale-Chall Readability Score: 13.45
+Difficult Words: 120
+----------------------------------------------------------------------
+Name: replit_20260516_111546
+Text file: replit_20260516_111546.txt
+Word count: 5528
+Sentence count: 222
+Average sentence length: 24.9
+Flesch-Kincaid Grade: 15.22
+Flesch Reading Ease: 30.3
+Gunning Fog Index: 18.97
+Coleman-Liau Index: 13.16
+SMOG Index: 16.87
+Automated Readability Index: 16.0
+Dale-Chall Readability Score: 11.21
+Difficult Words: 592
+----------------------------------------------------------------------
+Name: schoolai_20260516_111602
+Text file: schoolai_20260516_111602.txt
+Word count: 2253
+Sentence count: 138
+Average sentence length: 16.33
+Flesch-Kincaid Grade: 12.4
+Flesch Reading Ease: 35.26
+Gunning Fog Index: 14.98
+Coleman-Liau Index: 14.84
+SMOG Index: 13.98
+Automated Readability Index: 14.06
+Dale-Chall Readability Score: 11.67
+Difficult Words: 460
+----------------------------------------------------------------------
+Name: solvely_20260516_112056
+Text file: solvely_20260516_112056.txt
+Word count: 18932
+Sentence count: 896
+Average sentence length: 21.13
+Flesch-Kincaid Grade: 14.89
+Flesch Reading Ease: 25.97
+Gunning Fog Index: 18.58
+Coleman-Liau Index: 14.92
+SMOG Index: 16.5
+Automated Readability Index: 15.94
+Dale-Chall Readability Score: 12.27
+Difficult Words: 1315
+----------------------------------------------------------------------
+Name: storytimeaiapp_20260516_111517
+Text file: storytimeaiapp_20260516_111517.txt
+Word count: 1488
+Sentence count: 26
+Average sentence length: 57.23
+Flesch-Kincaid Grade: 30.67
+Flesch Reading Ease: -22.9
+Gunning Fog Index: 33.59
+Coleman-Liau Index: 18.64
+SMOG Index: 26.17
+Automated Readability Index: 35.89
+Dale-Chall Readability Score: 15.3
+Difficult Words: 401
+----------------------------------------------------------------------
+Name: studyfetch_20260516_111958
+Text file: studyfetch_20260516_111958.txt
+Word count: 8086
+Sentence count: 350
+Average sentence length: 23.1
+Flesch-Kincaid Grade: 14.54
+Flesch Reading Ease: 31.95
+Gunning Fog Index: 17.67
+Coleman-Liau Index: 13.32
+SMOG Index: 16.02
+Automated Readability Index: 15.27
+Dale-Chall Readability Score: 11.18
+Difficult Words: 945
+----------------------------------------------------------------------
+
+OVERALL AVERAGES
+======================================================================
+Average word_count: 4180.14
+Average sentence_count: 182.68
+Average avg_sentence_length: 24.02
+Average flesch_kincaid_grade: 15.67
+Average flesch_reading_ease: 25.52
+Average gunning_fog: 18.78
+Average coleman_liau_index: 14.57
+Average smog_index: 16.61
+Average automated_readability_index: 16.98
+Average dale_chall_readability_score: 12.18
+Average difficult_words: 545.32
+
