@@ -1,7 +1,6 @@
 # Privacy Policies in Educational AI
 
-This project analyzes privacy policies of educational AI applications. The goal is to evaluate policy readability, extract relevant privacy-policy text, and organize the collected results for further analysis.
-
+This project analyzes privacy policies of educational AI applications. The goal is to evaluate policy readability, legal compliance and user perception.
 ## Project Structure
 
 ```text
@@ -14,7 +13,7 @@ Privacy-Policies-in-Educational-AI/
 │   └── Contains output files generated from the analysis, such as readability scores.
 │
 ├── scripts/
-│   └── Contains Python scripts used for data processing, text extraction, and readability evaluation.
+│   └── Contains Python scripts used for text extraction, readability evaluation, and legal compliance.
 │
 ├── urls/
 │   └── Contains text files with privacy policy URLs used in the project.
